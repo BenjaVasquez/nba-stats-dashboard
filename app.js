@@ -173,11 +173,11 @@ function updateUI() {
     nbaLogos[selectedPlayer.team];
 
   const bio = selectedPlayer.bio || {};
-  document.getElementById('bio-pos').innerText = bio.pos || '---';
-  document.getElementById('bio-height').innerText = bio.height || '---';
-  document.getElementById('bio-weight').innerText = bio.weight || '---';
-  document.getElementById('bio-age').innerText = bio.age || '--';
-  document.getElementById('bio-birth').innerText = bio.birthdate || '---';
+  document.getElementById('player-pos').innerText = player.pos || '---';
+  document.getElementById('player-height').innerText = player.height || '---';
+  document.getElementById('player-weight').innerText = player.weight || '---';
+  document.getElementById('player-age').innerText = player.age || '---';
+  document.getElementById('player-salary').innerText = player.salary || '---';
   document.getElementById('bio-country').innerText = bio.country || '---';
 
   const flag = document.getElementById('bio-flag');
