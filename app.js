@@ -173,11 +173,7 @@ function updateUI() {
     nbaLogos[selectedPlayer.team];
 
   const bio = selectedPlayer.bio || {};
-  document.getElementById('player-pos').innerText = player.pos || '---';
-  document.getElementById('player-height').innerText = player.height || '---';
-  document.getElementById('player-weight').innerText = player.weight || '---';
-  document.getElementById('player-age').innerText = player.age || '---';
-  document.getElementById('player-salary').innerText = player.salary || '---';
+
   document.getElementById('bio-country').innerText = bio.country || '---';
 
   const flag = document.getElementById('bio-flag');
