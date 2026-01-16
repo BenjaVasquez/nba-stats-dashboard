@@ -1,0 +1,38 @@
+name: Actualizar Estadisticas NBA
+on:
+  schedule:
+    - cron: '0 0 * * *' # Se ejecuta solo todos los días a las 00:00 UTC
+  workflow_dispatch: # Permite que tú lo ejecutes manualmente con un botón en GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalar librerías
+        run: |
+          pip install pandas nba_api openpyxl requests beautifulsoup4
+
+      - name: Ejecutar Scripts de Extracción
+        run: |
+          python fetch_nba_p1.py
+          python fetch_nba_p2.py
+          python fetch_nba_p3.py
+          python fetch_nba_p4.py
+          python merge_data.py
+          python fetch_injuries.py
+
+      - name: Guardar cambios en el repo
+        run: |
+          git config --global user.name 'NBA Bot'
+          git config --global user.email 'bot@nba.com'
+          git add data.json injuries.json
+          git commit -m "Actualización automática de estadísticas" || echo "No hay cambios"
+          git push
