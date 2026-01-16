@@ -1,40 +1,69 @@
 name: Actualizar Estadisticas NBA
 on:
   schedule:
-    - cron: '0 0 * * *' # Se ejecuta solo todos los días a las 00:00 UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
-  repository_dispatch:     # <--- AGREGA ESTA LÍNEA
-    types: [trigger-update] # Permite que tú lo ejecutes manualmente con un botón en GitHub
+  repository_dispatch:
+    types: [trigger-update]
 
 jobs:
-  build:
+  # TRABAJO 1: Extraer datos en paralelo
+  extract_stats:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        part: [1, 2, 3, 4] # Crea 4 instancias simultáneas
     steps:
-      - name: Checkout del código
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Configurar Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Instalar librerías
-        run: |
-          pip install pandas nba_api openpyxl requests beautifulsoup4
+      - name: Install Dependencies
+        run: pip install pandas nba_api
 
-      - name: Ejecutar Scripts de Extracción
+      - name: Run Part ${{ matrix.part }}
+        run: python fetch_nba_p${{ matrix.part }}.py
+
+      - name: Upload Part Result
+        uses: actions/upload-artifact@v4
+        with:
+          name: data_p${{ matrix.part }}
+          path: data_p${{ matrix.part }}.json
+
+  # TRABAJO 2: Unir todo y desplegar
+  merge_and_deploy:
+    needs: extract_stats # Espera a que las 4 partes terminen
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Download All Parts
+        uses: actions/download-artifact@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Merge JSONs
         run: |
-          python fetch_nba_p1.py
-          python fetch_nba_p2.py
-          python fetch_nba_p3.py
-          python fetch_nba_p4.py
+          # Movemos los archivos de sus carpetas de artefactos al root
+          mv data_p1/data_p1.json .
+          mv data_p2/data_p2.json .
+          mv data_p3/data_p3.json .
+          mv data_p4/data_p4.json .
           python merge_data.py
           python fetch_injuries.py
 
-      - name: Guardar cambios en el repo
+      - name: Commit and Push
         run: |
           git config --global user.name 'NBA Bot'
           git config --global user.email 'bot@nba.com'
           git add data.json injuries.json
-          git commit -m "Actualización automática de estadísticas" || echo "No hay cambios"
+          git commit -m "Actualización paralela completada" || echo "No changes"
           git push
