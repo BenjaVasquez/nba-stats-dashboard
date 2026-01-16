@@ -2,8 +2,8 @@ name: Actualizar Estadisticas NBA
 on:
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:
-  repository_dispatch:
+  workflow_dispatch: # Permite el botón manual en GitHub
+  repository_dispatch: # PERMITE EL BOTÓN DE TU WEB
     types: [trigger-update]
 
 jobs:

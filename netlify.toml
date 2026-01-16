@@ -1,0 +1,8 @@
+[build]
+  publish = "/"        # Tu carpeta principal donde está el index.html
+  functions = "netlify/functions"  # Indica la CARPETA, no el archivo
+
+[[redirects]]
+  from = "/.netlify/functions/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
