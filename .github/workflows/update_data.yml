@@ -7,18 +7,17 @@ on:
     types: [trigger-update]
 
 jobs:
-  # TRABAJO 1: Extraer datos en paralelo
   extract_stats:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        part: [1, 2, 3, 4] # Crea 4 instancias simultáneas
+        part: [1, 2, 3, 4]
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -31,32 +30,32 @@ jobs:
       - name: Upload Part Result
         uses: actions/upload-artifact@v4
         with:
-          name: data_p${{ matrix.part }}
+          name: data_part_${{ matrix.part }}
           path: data_p${{ matrix.part }}.json
 
-  # TRABAJO 2: Unir todo y desplegar
   merge_and_deploy:
-    needs: extract_stats # Espera a que las 4 partes terminen
+    needs: extract_stats
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Download All Parts
         uses: actions/download-artifact@v4
+        with:
+          pattern: data_part_*
+          merge-multiple: true # Esto pone todos los JSON en la carpeta principal, sin subcarpetas
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Merge JSONs
+      - name: Install All Dependencies # AQUÍ SOLUCIONAMOS EL ERROR DE REQUESTS
+        run: pip install pandas nba_api requests beautifulsoup4
+
+      - name: Merge and Fetch Injuries
         run: |
-          # Movemos los archivos de sus carpetas de artefactos al root
-          mv data_p1/data_p1.json .
-          mv data_p2/data_p2.json .
-          mv data_p3/data_p3.json .
-          mv data_p4/data_p4.json .
           python merge_data.py
           python fetch_injuries.py
 
@@ -65,5 +64,5 @@ jobs:
           git config --global user.name 'NBA Bot'
           git config --global user.email 'bot@nba.com'
           git add data.json injuries.json
-          git commit -m "Actualización paralela completada" || echo "No changes"
+          git commit -m "Actualización completa: Datos y Lesiones" || echo "No hay cambios para subir"
           git push
