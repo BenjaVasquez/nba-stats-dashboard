@@ -1,12 +1,4 @@
 {
-    "Luke Kennard": {
-        "status": "yellow",
-        "description": "Jan 15"
-    },
-    "Mouhamed Gueye": {
-        "status": "yellow",
-        "description": "Jan 15"
-    },
     "Zaccharie Risacher": {
         "status": "yellow",
         "description": "Jan 17"
@@ -34,14 +26,6 @@
     "Haywood Highsmith": {
         "status": "yellow",
         "description": "Jan 19"
-    },
-    "Moussa Diabate": {
-        "status": "yellow",
-        "description": "Jan 15"
-    },
-    "Collin Sexton": {
-        "status": "yellow",
-        "description": "Jan 15"
     },
     "Mason Plumlee": {
         "status": "yellow",
@@ -91,21 +75,21 @@
         "status": "yellow",
         "description": "Jan 19"
     },
-    "Daniel Gafford": {
-        "status": "yellow",
-        "description": "Jan 15"
-    },
     "Max Christie": {
         "status": "yellow",
-        "description": "Jan 15"
+        "description": "Jan 17"
+    },
+    "Daniel Gafford": {
+        "status": "yellow",
+        "description": "Jan 17"
     },
     "P.J. Washington": {
         "status": "yellow",
-        "description": "Jan 15"
+        "description": "Jan 17"
     },
     "Cooper Flagg": {
         "status": "yellow",
-        "description": "Jan 15"
+        "description": "Jan 17"
     },
     "Anthony Davis": {
         "status": "yellow",
@@ -151,15 +135,19 @@
         "status": "yellow",
         "description": "Jan 17"
     },
+    "Gui Santos": {
+        "status": "yellow",
+        "description": "Jan 17"
+    },
     "Seth Curry": {
         "status": "yellow",
         "description": "Jan 26"
     },
-    "Tari Eason": {
+    "Dorian Finney-Smith": {
         "status": "yellow",
         "description": "Jan 16"
     },
-    "Dorian Finney-Smith": {
+    "Tari Eason": {
         "status": "yellow",
         "description": "Jan 16"
     },
@@ -251,14 +239,6 @@
         "status": "yellow",
         "description": "Feb 20"
     },
-    "Kyle Kuzma": {
-        "status": "yellow",
-        "description": "Jan 15"
-    },
-    "Giannis Antetokounmpo": {
-        "status": "yellow",
-        "description": "Jan 15"
-    },
     "Taurean Prince": {
         "status": "yellow",
         "description": "Feb 20"
@@ -287,10 +267,6 @@
         "status": "yellow",
         "description": "Jan 17"
     },
-    "Landry Shamet": {
-        "status": "yellow",
-        "description": "Jan 15"
-    },
     "Jalen Brunson": {
         "status": "yellow",
         "description": "Jan 17"
@@ -298,10 +274,6 @@
     "Isaiah Hartenstein": {
         "status": "yellow",
         "description": "Jan 17"
-    },
-    "Luguentz Dort": {
-        "status": "yellow",
-        "description": "Jan 15"
     },
     "Nikola Topic": {
         "status": "yellow",
@@ -321,7 +293,7 @@
     },
     "Colin Castleton": {
         "status": "yellow",
-        "description": "Jan 18"
+        "description": "Jan 22"
     },
     "Dominick Barlow": {
         "status": "yellow",
@@ -346,10 +318,6 @@
     "Jalen Green": {
         "status": "yellow",
         "description": "Jan 17"
-    },
-    "Jerami Grant": {
-        "status": "yellow",
-        "description": "Jan 15"
     },
     "Deni Avdija": {
         "status": "yellow",
@@ -439,13 +407,21 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Cam Whitmore": {
+    "Tristan Vukcevic": {
         "status": "yellow",
-        "description": "May 1"
+        "description": "Jan 17"
     },
     "Bilal Coulibaly": {
         "status": "yellow",
-        "description": "Jan 16"
+        "description": "Jan 17"
+    },
+    "Khris Middleton": {
+        "status": "yellow",
+        "description": "Jan 17"
+    },
+    "Cam Whitmore": {
+        "status": "yellow",
+        "description": "May 1"
     },
     "Trae Young": {
         "status": "yellow",
