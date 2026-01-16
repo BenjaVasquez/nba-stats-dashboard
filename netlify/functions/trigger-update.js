@@ -1,14 +1,11 @@
-const fetch = require('node-fetch');
-
+// ELIMINAMOS la línea de 'require' porque Netlify ya tiene fetch global
 exports.handler = async function (event, context) {
-  // Asegúrate de que estas variables coincidan exactamente con tu GitHub
+  const TOKEN = process.env.GITHUB_TOKEN;
   const GITHUB_USER = 'BenjaVasquez';
   const REPO_NAME = 'nba-stats-dashboard';
-  const TOKEN = process.env.GITHUB_TOKEN; // Este se configura en el panel de Netlify
-
-  console.log('Intentando activar workflow en:', GITHUB_USER, REPO_NAME);
 
   try {
+    // Usamos el fetch global (Node.js 18+ lo tiene por defecto)
     const response = await fetch(
       `https://api.github.com/repos/${GITHUB_USER}/${REPO_NAME}/dispatches`,
       {
@@ -23,7 +20,7 @@ exports.handler = async function (event, context) {
     );
 
     if (response.ok) {
-      return { statusCode: 200, body: 'Señal enviada correctamente' };
+      return { statusCode: 200, body: 'Señal enviada con éxito' };
     } else {
       const errorText = await response.text();
       return { statusCode: response.status, body: errorText };
