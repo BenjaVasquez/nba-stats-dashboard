@@ -528,52 +528,20 @@ function updateTeamRecord(teamAbb) {
   }
 }
 
-
+// En app.js, cambia la función triggerDeepUpdate:
 async function triggerDeepUpdate() {
-  const GITHUB_USER = 'BenjaVasquez';
-  const REPO_NAME = 'nba-stats-dashboard';
-  const TOKEN =
-    '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';
+    if(!confirm("¿Deseas iniciar la actualización en la nube?")) return;
 
-  if (!confirm('¿Deseas iniciar la actualización masiva en la nube?')) return;
-
-  // Mostrar el indicador de carga
-  const banner = document.getElementById('cloud-status-banner');
-  const icon = document.getElementById('update-icon');
-
-  banner.classList.remove('hidden');
-  if (icon) icon.classList.add('animate-spin');
-
-  try {
-    const response = await fetch(
-      `https://api.github.com/repos/${GITHUB_USER}/${REPO_NAME}/dispatches`,
-      {
-        method: 'POST',
-        headers: {
-          Authorization: `token ${TOKEN}`,
-          Accept: 'application/vnd.github.v3+json',
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ event_type: 'trigger-update' }),
-      }
-    );
-
-    if (response.ok) {
-      // Cambiamos el mensaje para confirmar que GitHub recibió la orden
-      banner.querySelector('p.text-blue-400').innerText =
-        'Orden recibida por GitHub. Puedes cerrar esta pestaña si deseas.';
-      banner.classList.remove('animate-pulse');
-      banner.classList.add('bg-green-600/10', 'border-green-500/30');
-      alert(
-        '🚀 Proceso iniciado. GitHub Actions está trabajando en segundo plano.'
-      );
-    } else {
-      throw new Error('Error en la señal');
+    try {
+        // Llamamos a nuestra función secreta en Netlify, no a GitHub directamente
+        const response = await fetch('/.netlify/functions/trigger-update');
+        
+        if (response.ok) {
+            alert("🚀 Orden enviada con éxito.");
+        } else {
+            alert("❌ Error en el servidor.");
+        }
+    } catch (error) {
+        alert("❌ Error de conexión.");
     }
-  } catch (error) {
-    banner.classList.add('hidden');
-    alert('❌ Error al conectar con la nube.');
-  } finally {
-    if (icon) icon.classList.remove('animate-spin');
-  }
 }
