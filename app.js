@@ -528,34 +528,52 @@ function updateTeamRecord(teamAbb) {
   }
 }
 
+
 async function triggerDeepUpdate() {
-  const statusText = document.getElementById('update-status');
+  const GITHUB_USER = 'BenjaVasquez';
+  const REPO_NAME = 'nba-stats-dashboard';
+  const TOKEN =
+    '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';
+
+  if (!confirm('¿Deseas iniciar la actualización masiva en la nube?')) return;
+
+  // Mostrar el indicador de carga
+  const banner = document.getElementById('cloud-status-banner');
   const icon = document.getElementById('update-icon');
 
-  if (
-    !confirm(
-      'Esto iniciará la descarga de 30 equipos y tardará unos 20 minutos. ¿Deseas continuar?'
-    )
-  )
-    return;
-
-  statusText.classList.remove('hidden');
-  statusText.innerText = 'Iniciando procesos en el servidor...';
-  icon.classList.add('animate-spin');
+  banner.classList.remove('hidden');
+  if (icon) icon.classList.add('animate-spin');
 
   try {
-    const response = await fetch('http://localhost:5000/update-stats');
-    const data = await response.json();
+    const response = await fetch(
+      `https://api.github.com/repos/${GITHUB_USER}/${REPO_NAME}/dispatches`,
+      {
+        method: 'POST',
+        headers: {
+          Authorization: `token ${TOKEN}`,
+          Accept: 'application/vnd.github.v3+json',
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ event_type: 'trigger-update' }),
+      }
+    );
 
-    alert(
-      '🚀 Proceso iniciado correctamente.\n\nPuedes seguir usando el dashboard. Verás los nuevos datos cuando el proceso termine y refresques la página.'
-    );
-    statusText.innerText = 'Ejecutando scripts P1-P4 en segundo plano...';
+    if (response.ok) {
+      // Cambiamos el mensaje para confirmar que GitHub recibió la orden
+      banner.querySelector('p.text-blue-400').innerText =
+        'Orden recibida por GitHub. Puedes cerrar esta pestaña si deseas.';
+      banner.classList.remove('animate-pulse');
+      banner.classList.add('bg-green-600/10', 'border-green-500/30');
+      alert(
+        '🚀 Proceso iniciado. GitHub Actions está trabajando en segundo plano.'
+      );
+    } else {
+      throw new Error('Error en la señal');
+    }
   } catch (error) {
-    console.error('Error al conectar con el servidor:', error);
-    alert(
-      "❌ Error: Asegúrate de tener 'server.py' ejecutándose en tu terminal."
-    );
-    icon.classList.remove('animate-spin');
+    banner.classList.add('hidden');
+    alert('❌ Error al conectar con la nube.');
+  } finally {
+    if (icon) icon.classList.remove('animate-spin');
   }
 }
