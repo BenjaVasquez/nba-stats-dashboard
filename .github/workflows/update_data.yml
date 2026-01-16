@@ -15,18 +15,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
       - name: Install Dependencies
         run: pip install pandas nba_api
-
       - name: Run Part ${{ matrix.part }}
         run: python fetch_nba_p${{ matrix.part }}.py
-
       - name: Upload Part Result
         uses: actions/upload-artifact@v4
         with:
@@ -39,30 +35,25 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Download All Parts
         uses: actions/download-artifact@v4
         with:
           pattern: data_part_*
-          merge-multiple: true # Esto pone todos los JSON en la carpeta principal, sin subcarpetas
-
+          merge-multiple: true # Esto pone los archivos en la raíz, arreglando el error de "0 jugadores"
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
-      - name: Install All Dependencies # AQUÍ SOLUCIONAMOS EL ERROR DE REQUESTS
+      - name: Install All Dependencies # AQUÍ ARREGLAMOS EL ERROR DE LA IMAGEN 2
         run: pip install pandas nba_api requests beautifulsoup4
-
       - name: Merge and Fetch Injuries
         run: |
           python merge_data.py
           python fetch_injuries.py
-
       - name: Commit and Push
         run: |
           git config --global user.name 'NBA Bot'
           git config --global user.email 'bot@nba.com'
           git add data.json injuries.json
-          git commit -m "Actualización completa: Datos y Lesiones" || echo "No hay cambios para subir"
+          git commit -m "Actualización completa" || echo "No hay cambios"
           git push

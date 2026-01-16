@@ -529,21 +529,14 @@ function updateTeamRecord(teamAbb) {
 }
 
 async function triggerDeepUpdate() {
-  if (!confirm('¿Iniciar actualización en la nube?')) return;
-
-  // Mostramos el banner de carga que creamos antes
-  const banner = document.getElementById('cloud-status-banner');
-  if (banner) banner.classList.remove('hidden');
+  if (!confirm('¿Deseas iniciar la actualización masiva en la nube?')) return;
 
   try {
-    // Llamamos a la función interna de Netlify, NO a GitHub directamente
     const response = await fetch('/.netlify/functions/trigger-update');
     if (response.ok) {
-      alert(
-        '🚀 ¡Señal enviada con éxito! Revisa la pestaña Actions en GitHub.'
-      );
+      alert('🚀 ¡Señal enviada! GitHub está procesando los equipos ahora.');
     } else {
-      alert('❌ Error en el servidor de Netlify.');
+      alert('❌ Error en el servidor de Netlify. Revisa el Token.');
     }
   } catch (error) {
     alert('❌ Error al conectar con la nube.');

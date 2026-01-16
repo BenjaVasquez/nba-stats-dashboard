@@ -1,4 +1,3 @@
-// netlify/functions/trigger-update.js
 const fetch = require('node-fetch');
 
 exports.handler = async function (event, context) {
@@ -19,7 +18,7 @@ exports.handler = async function (event, context) {
         body: JSON.stringify({ event_type: 'trigger-update' }),
       }
     );
-    return { statusCode: 200, body: 'Señal enviada' };
+    return { statusCode: 200, body: 'Señal enviada a GitHub' };
   } catch (error) {
     return { statusCode: 500, body: error.toString() };
   }
