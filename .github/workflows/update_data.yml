@@ -49,9 +49,10 @@ jobs:
       - name: Merge and Fetch Injuries
         run: |
           python merge_data.py
+          python process_fixture.py
           python fetch_injuries.py
           python fetch_bios_salaries.py
-          python process_fixture.py
+          
       - name: Commit and Push
         run: |
           git config --global user.name 'NBA Bot'
