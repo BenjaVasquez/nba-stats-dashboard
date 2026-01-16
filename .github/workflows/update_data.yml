@@ -27,7 +27,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: data_part_${{ matrix.part }}
-          path: data_p${{ matrix.part }}.json
+          path: data_p${{ matrix.part.json }}
 
   merge_and_deploy:
     needs: extract_stats
@@ -39,13 +39,13 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           pattern: data_part_*
-          merge-multiple: true # Esto pone los archivos en la raíz, arreglando el error de "0 jugadores"
+          merge-multiple: true # ESTO ARREGLA EL ERROR DE "0 JUGADORES"
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - name: Install All Dependencies # AQUÍ ARREGLAMOS EL ERROR DE LA IMAGEN 2
-        run: pip install pandas nba_api requests beautifulsoup4
+      - name: Install All Dependencies # ESTO ARREGLA EL ERROR DE LA IMAGEN 2
+        run: pip install pandas nba_api requests beautifulsoup4 
       - name: Merge and Fetch Injuries
         run: |
           python merge_data.py

@@ -509,7 +509,6 @@ function renderPlayers(list) {
 
 document.addEventListener('DOMContentLoaded', loadData);
 
-
 function updateTeamRecord(teamAbb) {
   const history = all_db.team_history[teamAbb] || [];
   const wins = history.filter((g) => g.wl === 'W').length;
@@ -529,16 +528,12 @@ function updateTeamRecord(teamAbb) {
 }
 
 async function triggerDeepUpdate() {
-  if (!confirm('¿Deseas iniciar la actualización masiva en la nube?')) return;
-
+  if (!confirm('¿Iniciar actualización masiva?')) return;
   try {
     const response = await fetch('/.netlify/functions/trigger-update');
-    if (response.ok) {
-      alert('🚀 ¡Señal enviada! GitHub está procesando los equipos ahora.');
-    } else {
-      alert('❌ Error en el servidor de Netlify. Revisa el Token.');
-    }
-  } catch (error) {
-    alert('❌ Error al conectar con la nube.');
+    if (response.ok) alert('🚀 ¡Señal enviada! Revisa GitHub Actions.');
+    else alert('❌ Error en Netlify. Revisa el Token en el panel.');
+  } catch (e) {
+    alert('❌ Error de conexión.');
   }
 }
