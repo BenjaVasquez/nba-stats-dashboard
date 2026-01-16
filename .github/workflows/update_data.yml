@@ -45,7 +45,7 @@ jobs:
         with:
           python-version: '3.10'
       - name: Install All Dependencies # ESTO ARREGLA EL ERROR DE LA IMAGEN 2
-        run: pip install pandas nba_api requests beautifulsoup4 
+        run: pip install pandas nba_api requests beautifulsoup4
       - name: Merge and Fetch Injuries
         run: |
           python merge_data.py
