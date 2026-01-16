@@ -39,18 +39,6 @@ def merge_player_data():
 # Dentro de tu función merge_player_data:
 with open('bios.json', 'r') as f:
     bios_data = json.load(f)
-
-for player in merged_players:
-    name = player.get('name')
-    if name in bios_data:
-        info = bios_data[name]
-        player['age'] = info['edad']
-        player['height'] = info['estatura']
-        player['weight'] = info['peso']
-        player['college'] = info['universidad']
-        player['salary'] = info['salario']
-        
-    total_final = len(merged_players)
     print(f"--- Unión finalizada ---")
     print(f"📊 ¡Éxito! data.json generado con {total_final} jugadores en total.")
 
