@@ -115,8 +115,9 @@ const getTD = (g) =>
     ? 1
     : 0;
 
-function formatNBADate(dateStr) {
+const formatDateNBA = (dateStr) => {
   if (!dateStr) return '';
+  const date = new Date(dateStr);
   const months = [
     'Ene',
     'Feb',
@@ -131,9 +132,9 @@ function formatNBADate(dateStr) {
     'Nov',
     'Dic',
   ];
-  const d = new Date(dateStr.replace(/-/g, '/'));
-  return isNaN(d) ? dateStr : `${months[d.getMonth()]} ${d.getDate()}`;
-}
+  // Retorna "Ene 05"
+  return `${months[date.getMonth()]} ${String(date.getDate()).padStart(2, '0')}`;
+};
 
 async function loadData() {
   try {
