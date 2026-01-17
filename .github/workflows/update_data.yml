@@ -45,18 +45,19 @@ jobs:
         with:
           python-version: '3.10'
       - name: Install All Dependencies # ESTO ARREGLA EL ERROR DE LA IMAGEN 2
-        run: pip install pandas nba_api requests beautifulsoup4
+        run: pip install pandas nba_api requests beautifulsoup4 openpyxl
+        
       - name: Merge and Fetch Injuries
         run: |
           python merge_data.py
           python process_fixture.py
           python fetch_injuries.py
-          python fetch_bios_salaries.py
           
       - name: Commit and Push
         run: |
           git config --global user.name 'NBA Bot'
           git config --global user.email 'bot@nba.com'
-          git add data.json injuries.json
-          git commit -m "Actualización completa" || echo "No hay cambios"
-          git push
+          git add data.json injuries.json fixture.json || echo "No hay cambios en archivos"
+          git pull --rebase origin main
+          git commit -m "Actualización completa (Estadísticas + Fixture)" || echo "No hay cambios"
+          git push origin main 
