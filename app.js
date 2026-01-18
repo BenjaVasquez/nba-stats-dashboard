@@ -115,25 +115,12 @@ const getTD = (g) =>
     ? 1
     : 0;
 
-const formatDateNBA = (dateStr) => {
-  if (!dateStr) return '';
-  const date = new Date(dateStr);
-  const months = [
-    'Ene',
-    'Feb',
-    'Mar',
-    'Abr',
-    'May',
-    'Jun',
-    'Jul',
-    'Ago',
-    'Sep',
-    'Oct',
-    'Nov',
-    'Dic',
-  ];
-  // Retorna "Ene 05"
-  return `${months[date.getMonth()]} ${String(date.getDate()).padStart(2, '0')}`;
+const formatNBADate = (dateString) => {
+  if (!dateString) return '---';
+  const date = new Date(dateString);
+  const options = { month: 'short', day: '2-digit' };
+  // 'es-ES' para que salga en español (Ene, Feb, etc.)
+  return date.toLocaleDateString('es-ES', options).replace('.', '');
 };
 
 async function loadData() {

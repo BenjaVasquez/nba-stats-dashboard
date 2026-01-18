@@ -57,8 +57,10 @@ jobs:
         run: |
           git config --global user.name 'NBA Bot'
           git config --global user.email 'bot@nba.com'
-          git pull --rebase origin main
-
           git add data.json injuries.json fixture.json || echo "No hay cambios en archivos"
+          git stash
+          git pull --rebase origin main
+          git stash pop || echo
+          git add .
           git commit -m "Actualización completa (Estadísticas + Fixture)" || echo "No hay cambios"
           git push origin main 
