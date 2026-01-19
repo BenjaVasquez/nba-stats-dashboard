@@ -47,10 +47,6 @@
         "status": "yellow",
         "description": "Jan 19"
     },
-    "Moussa Diabate": {
-        "status": "yellow",
-        "description": "Jan 18"
-    },
     "Grant Williams": {
         "status": "yellow",
         "description": "Jan 21"
@@ -129,15 +125,7 @@
     },
     "Aaron Gordon": {
         "status": "yellow",
-        "description": "Jan 18"
-    },
-    "Bruce Brown": {
-        "status": "yellow",
-        "description": "Jan 18"
-    },
-    "Jamal Murray": {
-        "status": "yellow",
-        "description": "Jan 18"
+        "description": "Jan 20"
     },
     "Christian Braun": {
         "status": "yellow",
@@ -159,17 +147,25 @@
         "status": "yellow",
         "description": "Apr 1"
     },
-    "Jimmy Butler III": {
-        "status": "yellow",
-        "description": "Jan 19"
-    },
     "Gui Santos": {
+        "status": "yellow",
+        "description": "Jan 20"
+    },
+    "De'Anthony Melton": {
+        "status": "yellow",
+        "description": "Jan 20"
+    },
+    "Draymond Green": {
         "status": "yellow",
         "description": "Jan 19"
     },
     "Seth Curry": {
         "status": "yellow",
         "description": "Jan 26"
+    },
+    "Steven Adams": {
+        "status": "yellow",
+        "description": "Jan 20"
     },
     "Tari Eason": {
         "status": "yellow",
@@ -206,14 +202,6 @@
     "Bradley Beal": {
         "status": "yellow",
         "description": "Oct 1"
-    },
-    "Luka Doncic": {
-        "status": "yellow",
-        "description": "Jan 18"
-    },
-    "LeBron James": {
-        "status": "yellow",
-        "description": "Jan 18"
     },
     "Adou Thiero": {
         "status": "yellow",
@@ -347,6 +335,18 @@
         "status": "yellow",
         "description": "Jan 19"
     },
+    "Robert Williams III": {
+        "status": "yellow",
+        "description": "Jan 22"
+    },
+    "Jrue Holiday": {
+        "status": "yellow",
+        "description": "Jan 22"
+    },
+    "Jerami Grant": {
+        "status": "yellow",
+        "description": "Jan 22"
+    },
     "Scoot Henderson": {
         "status": "yellow",
         "description": "Jan 22"
@@ -354,22 +354,6 @@
     "Kris Murray": {
         "status": "yellow",
         "description": "Jan 22"
-    },
-    "Robert Williams III": {
-        "status": "yellow",
-        "description": "Jan 18"
-    },
-    "Jrue Holiday": {
-        "status": "yellow",
-        "description": "Jan 18"
-    },
-    "Deni Avdija": {
-        "status": "yellow",
-        "description": "Jan 18"
-    },
-    "Jerami Grant": {
-        "status": "yellow",
-        "description": "Jan 18"
     },
     "Matisse Thybulle": {
         "status": "yellow",
@@ -399,10 +383,6 @@
         "status": "yellow",
         "description": "Jan 20"
     },
-    "Jamison Battle": {
-        "status": "yellow",
-        "description": "Jan 18"
-    },
     "Jakob Poeltl": {
         "status": "yellow",
         "description": "Jan 20"
@@ -414,10 +394,6 @@
     "RJ Barrett": {
         "status": "yellow",
         "description": "Jan 20"
-    },
-    "Immanuel Quickley": {
-        "status": "yellow",
-        "description": "Jan 18"
     },
     "Chucky Hepburn": {
         "status": "yellow",
