@@ -27,7 +27,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: data_part_${{ matrix.part }}
-          path: data_p${{ matrix.part.json }}
+          path: data_p${{ matrix.part }} .json
 
   merge_and_deploy:
     needs: extract_stats
