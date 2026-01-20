@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "DAY_LABEL": "Lunes 19 de Enero",
         "TIME_ONLY": "15:00",
         "STADIUM": "State Farm Arena",
@@ -64,6 +65,8 @@
         "AWAY_TEAM": "BOS"
     },
     {
+=======
+>>>>>>> aed9452dd6f7b12d223be97f162641bdb5237008
         "DAY_LABEL": "Martes 20 de Enero",
         "TIME_ONLY": "00:00",
         "STADIUM": "Chase Center",
@@ -186,6 +189,25 @@
     {
         "DAY_LABEL": "Jueves 22 de Enero",
         "TIME_ONLY": "21:00",
+<<<<<<< HEAD
+=======
+        "STADIUM": "Xfinity Mobile Arena",
+        "MATCHUP": "HOU @ PHI",
+        "HOME_TEAM": "PHI",
+        "AWAY_TEAM": "HOU"
+    },
+    {
+        "DAY_LABEL": "Jueves 22 de Enero",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Capital One Arena",
+        "MATCHUP": "DEN @ WAS",
+        "HOME_TEAM": "WAS",
+        "AWAY_TEAM": "DEN"
+    },
+    {
+        "DAY_LABEL": "Jueves 22 de Enero",
+        "TIME_ONLY": "21:00",
+>>>>>>> aed9452dd6f7b12d223be97f162641bdb5237008
         "STADIUM": "Kia Center",
         "MATCHUP": "CHA @ ORL",
         "HOME_TEAM": "ORL",
@@ -193,6 +215,7 @@
     },
     {
         "DAY_LABEL": "Jueves 22 de Enero",
+<<<<<<< HEAD
         "TIME_ONLY": "21:00",
         "STADIUM": "Xfinity Mobile Arena",
         "MATCHUP": "HOU @ PHI",
@@ -209,6 +232,8 @@
     },
     {
         "DAY_LABEL": "Jueves 22 de Enero",
+=======
+>>>>>>> aed9452dd6f7b12d223be97f162641bdb5237008
         "TIME_ONLY": "21:29",
         "STADIUM": "American Airlines Center",
         "MATCHUP": "GSW @ DAL",
@@ -258,6 +283,7 @@
     {
         "DAY_LABEL": "Viernes 23 de Enero",
         "TIME_ONLY": "21:29",
+<<<<<<< HEAD
         "STADIUM": "State Farm Arena",
         "MATCHUP": "PHX @ ATL",
         "HOME_TEAM": "ATL",
@@ -266,6 +292,8 @@
     {
         "DAY_LABEL": "Viernes 23 de Enero",
         "TIME_ONLY": "21:29",
+=======
+>>>>>>> aed9452dd6f7b12d223be97f162641bdb5237008
         "STADIUM": "Barclays Center",
         "MATCHUP": "BOS @ BKN",
         "HOME_TEAM": "BKN",
@@ -289,6 +317,14 @@
     },
     {
         "DAY_LABEL": "Viernes 23 de Enero",
+        "TIME_ONLY": "21:29",
+        "STADIUM": "Rocket Arena",
+        "MATCHUP": "SAC @ CLE",
+        "HOME_TEAM": "CLE",
+        "AWAY_TEAM": "SAC"
+    },
+    {
+        "DAY_LABEL": "Viernes 23 de Enero",
         "TIME_ONLY": "22:00",
         "STADIUM": "FedExForum",
         "MATCHUP": "NOP @ MEM",
@@ -297,6 +333,17 @@
     },
     {
         "DAY_LABEL": "Viernes 23 de Enero",
+<<<<<<< HEAD
+=======
+        "TIME_ONLY": "22:00",
+        "STADIUM": "Fiserv Forum",
+        "MATCHUP": "DEN @ MIL",
+        "HOME_TEAM": "MIL",
+        "AWAY_TEAM": "DEN"
+    },
+    {
+        "DAY_LABEL": "Viernes 23 de Enero",
+>>>>>>> aed9452dd6f7b12d223be97f162641bdb5237008
         "TIME_ONLY": "23:30",
         "STADIUM": "Paycom Center",
         "MATCHUP": "IND @ OKC",
@@ -426,6 +473,7 @@
     {
         "DAY_LABEL": "Lunes 26 de Enero",
         "TIME_ONLY": "21:00",
+<<<<<<< HEAD
         "STADIUM": "Rocket Arena",
         "MATCHUP": "ORL @ CLE",
         "HOME_TEAM": "CLE",
@@ -434,6 +482,8 @@
     {
         "DAY_LABEL": "Lunes 26 de Enero",
         "TIME_ONLY": "21:00",
+=======
+>>>>>>> aed9452dd6f7b12d223be97f162641bdb5237008
         "STADIUM": "Spectrum Center",
         "MATCHUP": "PHI @ CHA",
         "HOME_TEAM": "CHA",
@@ -441,6 +491,17 @@
     },
     {
         "DAY_LABEL": "Lunes 26 de Enero",
+<<<<<<< HEAD
+=======
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Rocket Arena",
+        "MATCHUP": "ORL @ CLE",
+        "HOME_TEAM": "CLE",
+        "AWAY_TEAM": "ORL"
+    },
+    {
+        "DAY_LABEL": "Lunes 26 de Enero",
+>>>>>>> aed9452dd6f7b12d223be97f162641bdb5237008
         "TIME_ONLY": "21:29",
         "STADIUM": "State Farm Arena",
         "MATCHUP": "IND @ ATL",
@@ -478,5 +539,72 @@
         "MATCHUP": "GSW @ MIN",
         "HOME_TEAM": "MIN",
         "AWAY_TEAM": "GSW"
+<<<<<<< HEAD
+=======
+    },
+    {
+        "DAY_LABEL": "Martes 27 de Enero",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Capital One Arena",
+        "MATCHUP": "POR @ WAS",
+        "HOME_TEAM": "WAS",
+        "AWAY_TEAM": "POR"
+    },
+    {
+        "DAY_LABEL": "Martes 27 de Enero",
+        "TIME_ONLY": "21:29",
+        "STADIUM": "Madison Square Garden",
+        "MATCHUP": "SAC @ NYK",
+        "HOME_TEAM": "NYK",
+        "AWAY_TEAM": "SAC"
+    },
+    {
+        "DAY_LABEL": "Martes 27 de Enero",
+        "TIME_ONLY": "22:00",
+        "STADIUM": "Xfinity Mobile Arena",
+        "MATCHUP": "MIL @ PHI",
+        "HOME_TEAM": "PHI",
+        "AWAY_TEAM": "MIL"
+    },
+    {
+        "DAY_LABEL": "Martes 27 de Enero",
+        "TIME_ONLY": "22:00",
+        "STADIUM": "Paycom Center",
+        "MATCHUP": "NOP @ OKC",
+        "HOME_TEAM": "OKC",
+        "AWAY_TEAM": "NOP"
+    },
+    {
+        "DAY_LABEL": "Martes 27 de Enero",
+        "TIME_ONLY": "22:59",
+        "STADIUM": "Ball Arena",
+        "MATCHUP": "DET @ DEN",
+        "HOME_TEAM": "DEN",
+        "AWAY_TEAM": "DET"
+    },
+    {
+        "DAY_LABEL": "Martes 27 de Enero",
+        "TIME_ONLY": "22:59",
+        "STADIUM": "Mortgage Matchup Center",
+        "MATCHUP": "BKN @ PHX",
+        "HOME_TEAM": "PHX",
+        "AWAY_TEAM": "BKN"
+    },
+    {
+        "DAY_LABEL": "Miércoles 28 de Enero",
+        "TIME_ONLY": "00:00",
+        "STADIUM": "Delta Center",
+        "MATCHUP": "LAC @ UTA",
+        "HOME_TEAM": "UTA",
+        "AWAY_TEAM": "LAC"
+    },
+    {
+        "DAY_LABEL": "Miércoles 28 de Enero",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Rocket Arena",
+        "MATCHUP": "LAL @ CLE",
+        "HOME_TEAM": "CLE",
+        "AWAY_TEAM": "LAL"
+>>>>>>> aed9452dd6f7b12d223be97f162641bdb5237008
     }
 ]
