@@ -35,6 +35,10 @@
         "status": "yellow",
         "description": "Jan 27"
     },
+    "KJ Simpson": {
+        "status": "yellow",
+        "description": "Jan 23"
+    },
     "Grant Williams": {
         "status": "yellow",
         "description": "Jan 21"
@@ -131,19 +135,23 @@
         "status": "yellow",
         "description": "Apr 1"
     },
-    "Isaac Jones": {
-        "status": "yellow",
-        "description": "Jan 21"
-    },
-    "Draymond Green": {
+    "Al Horford": {
         "status": "yellow",
         "description": "Jan 20"
+    },
+    "Jimmy Butler III": {
+        "status": "yellow",
+        "description": "Dec 1"
     },
     "Gui Santos": {
         "status": "yellow",
         "description": "Jan 20"
     },
     "De'Anthony Melton": {
+        "status": "yellow",
+        "description": "Jan 20"
+    },
+    "Draymond Green": {
         "status": "yellow",
         "description": "Jan 20"
     },
@@ -174,6 +182,10 @@
     "Tyrese Haliburton": {
         "status": "yellow",
         "description": "Oct 1"
+    },
+    "Cam Christie": {
+        "status": "yellow",
+        "description": "Jan 20"
     },
     "Kawhi Leonard": {
         "status": "yellow",
@@ -231,10 +243,6 @@
         "status": "yellow",
         "description": "Jan 26"
     },
-    "Naz Reid": {
-        "status": "yellow",
-        "description": "Jan 20"
-    },
     "Herbert Jones": {
         "status": "yellow",
         "description": "Jan 21"
@@ -291,7 +299,11 @@
         "status": "yellow",
         "description": "Jan 20"
     },
-    "Jalen Green": {
+    "Joel Embiid": {
+        "status": "yellow",
+        "description": "Jan 22"
+    },
+    "Mark Williams": {
         "status": "yellow",
         "description": "Jan 20"
     },
@@ -333,7 +345,7 @@
     },
     "Devin Vassell": {
         "status": "yellow",
-        "description": "Jan 20"
+        "description": "Jan 22"
     },
     "Collin Murray-Boyles": {
         "status": "yellow",
@@ -355,21 +367,21 @@
         "status": "yellow",
         "description": "Feb 19"
     },
-    "Brice Sensabaugh": {
-        "status": "yellow",
-        "description": "Jan 20"
-    },
     "Georges Niang": {
         "status": "yellow",
-        "description": "Jan 20"
+        "description": "Jan 27"
+    },
+    "Brice Sensabaugh": {
+        "status": "yellow",
+        "description": "Jan 22"
     },
     "Lauri Markkanen": {
         "status": "yellow",
-        "description": "Jan 20"
+        "description": "Jan 22"
     },
     "Elijah Harkless": {
         "status": "yellow",
-        "description": "Jan 20"
+        "description": "Jan 22"
     },
     "Walker Kessler": {
         "status": "yellow",
