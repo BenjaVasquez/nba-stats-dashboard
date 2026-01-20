@@ -4,9 +4,26 @@ from datetime import datetime
 from nba_api.stats.static import teams
 from nba_api.stats.endpoints import commonteamroster, playergamelog, playercareerstats, commonplayerinfo
 
-RETRY_COUNT, SLEEP_TIME, TIMEOUT_NBA = 3, 3.0, 60
-TEAM_LIST = ['POR', 'SAC', 'SAS', 'TOR', 'UTA', 'WAS']
+# --- CONFIGURACIÓN ANTI-BLOQUEO ---
+RETRY_COUNT = 5
+SLEEP_TIME = 4  # Aumentamos tiempo para evitar ban
+TIMEOUT_NBA = 45
 
+TEAM_LIST = ['POR', 'SAC', 'SAS', 'TOR', 'UTA', 'WAS']
+OUTPUT_FILE = 'data_p4.json' # <--- CAMBIAR EL NOMBRE DEL ARCHIVO (p1, p2, p3, p4)
+
+# Encabezados para parecer un navegador real (Firefox/Chrome)
+custom_headers = {
+    'Host': 'stats.nba.com',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0',
+    'Accept': 'application/json, text/plain, */*',
+    'Accept-Language': 'en-US,en;q=0.5',
+    'Referer': 'https://www.nba.com/',
+    'Origin': 'https://www.nba.com',
+    'Connection': 'keep-alive',
+    'x-nba-stats-origin': 'stats',
+    'x-nba-stats-token': 'true'
+}
 
 def safe_api_call(func, **kwargs):
     """Intenta llamar a la API con reintentos automáticos"""
@@ -40,7 +57,7 @@ def run():
     all_teams = [t for t in teams.get_teams() if t['abbreviation'] in TEAM_LIST]
     data = {"players": []}
     
-    print(f"🚀 Iniciando Parte 1: {len(all_teams)} equipos")
+    print(f"🚀 Iniciando Parte 4: {len(all_teams)} equipos")
 
     for team in all_teams:
         print(f"🏀 Procesando: {team['full_name']}...")
@@ -157,7 +174,7 @@ def run():
     with open('data_p1.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     
-    print("✅ Parte 1 completada exitosamente.")
+    print("✅ Parte 4 completada exitosamente.")
 
 if __name__ == "__main__":
     run()
