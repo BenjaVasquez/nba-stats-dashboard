@@ -12244,33 +12244,15 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 25.8,
-                "reb": 4.7,
+                "pts": 26.1,
+                "reb": 4.8,
                 "ast": 8.1,
-                "tpm": 3.2,
-                "min": 35.7,
+                "tpm": 3.1,
+                "min": 35.8,
                 "dd2": 12,
                 "td3": 2
             },
             "last_15": [
-                {
-                    "date": "Nov 23, 2025",
-                    "opponent": "CLE",
-                    "result": "L",
-                    "margin": -15,
-                    "pts": 19,
-                    "ast": 6,
-                    "reb": 2,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 8,
-                    "ft_m": 9,
-                    "ft_a": 10,
-                    "stl": 1,
-                    "blk": 0,
-                    "min": "32"
-                },
                 {
                     "date": "Nov 25, 2025",
                     "opponent": "LAL",
@@ -12666,6 +12648,24 @@
                     "stl": 1,
                     "blk": 1,
                     "min": "42"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "WAS",
+                    "result": "W",
+                    "margin": -3,
+                    "pts": 36,
+                    "ast": 9,
+                    "reb": 7,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 5,
+                    "ft_m": 18,
+                    "ft_a": 20,
+                    "stl": 1,
+                    "blk": 1,
+                    "min": "37"
                 }
             ]
         },
@@ -13417,33 +13417,15 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 6.5,
-                "reb": 2.3,
-                "ast": 1.5,
-                "tpm": 0.9,
+                "pts": 6.6,
+                "reb": 2.4,
+                "ast": 1.4,
+                "tpm": 1.0,
                 "min": 20.4,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 28, 2025",
-                    "opponent": "MEM",
-                    "result": "L",
-                    "margin": 2,
-                    "pts": 3,
-                    "ast": 2,
-                    "reb": 0,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 1,
-                    "tpa": 2,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 1,
-                    "blk": 0,
-                    "min": "14"
-                },
                 {
                     "date": "Nov 29, 2025",
                     "opponent": "DAL",
@@ -13839,6 +13821,24 @@
                     "stl": 3,
                     "blk": 0,
                     "min": "37"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "WAS",
+                    "result": "W",
+                    "margin": -15,
+                    "pts": 8,
+                    "ast": 1,
+                    "reb": 3,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 2,
+                    "tpa": 5,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "22"
                 }
             ]
         },
@@ -14175,33 +14175,15 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 8.0,
+                "pts": 8.1,
                 "reb": 2.9,
                 "ast": 3.1,
                 "tpm": 1.1,
-                "min": 27.2,
+                "min": 27.5,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 28, 2025",
-                    "opponent": "MEM",
-                    "result": "L",
-                    "margin": -7,
-                    "pts": 11,
-                    "ast": 1,
-                    "reb": 7,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 2,
-                    "tpa": 5,
-                    "ft_m": 1,
-                    "ft_a": 2,
-                    "stl": 5,
-                    "blk": 0,
-                    "min": "30"
-                },
                 {
                     "date": "Nov 29, 2025",
                     "opponent": "DAL",
@@ -14597,6 +14579,24 @@
                     "stl": 4,
                     "blk": 0,
                     "min": "34"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "WAS",
+                    "result": "W",
+                    "margin": -2,
+                    "pts": 10,
+                    "ast": 4,
+                    "reb": 5,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 1,
+                    "tpa": 2,
+                    "ft_m": 3,
+                    "ft_a": 4,
+                    "stl": 1,
+                    "blk": 1,
+                    "min": "39"
                 }
             ]
         },
@@ -14919,29 +14919,11 @@
                 "reb": 2.6,
                 "ast": 0.9,
                 "tpm": 1.5,
-                "min": 17.0,
+                "min": 17.1,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 14, 2025",
-                    "opponent": "DAL",
-                    "result": "W",
-                    "margin": -13,
-                    "pts": 0,
-                    "ast": 0,
-                    "reb": 3,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 1,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 0,
-                    "blk": 0,
-                    "min": "10"
-                },
                 {
                     "date": "Nov 16, 2025",
                     "opponent": "BOS",
@@ -15337,6 +15319,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "13"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "WAS",
+                    "result": "W",
+                    "margin": 3,
+                    "pts": 6,
+                    "ast": 0,
+                    "reb": 2,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 5,
+                    "ft_m": 2,
+                    "ft_a": 2,
+                    "stl": 4,
+                    "blk": 1,
+                    "min": "20"
                 }
             ]
         },
@@ -15348,33 +15348,15 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 3.5,
+                "pts": 3.6,
                 "reb": 1.7,
                 "ast": 0.6,
                 "tpm": 0.4,
-                "min": 9.4,
+                "min": 9.7,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 06, 2025",
-                    "opponent": "PHX",
-                    "result": "L",
-                    "margin": 13,
-                    "pts": 17,
-                    "ast": 3,
-                    "reb": 2,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 2,
-                    "tpa": 3,
-                    "ft_m": 5,
-                    "ft_a": 7,
-                    "stl": 1,
-                    "blk": 0,
-                    "min": "25"
-                },
                 {
                     "date": "Nov 08, 2025",
                     "opponent": "PHX",
@@ -15770,6 +15752,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "20"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "WAS",
+                    "result": "W",
+                    "margin": 16,
+                    "pts": 6,
+                    "ast": 1,
+                    "reb": 2,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 2,
+                    "ft_m": 4,
+                    "ft_a": 4,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "19"
                 }
             ]
         },
@@ -16251,7 +16251,7 @@
                 "pos": "Forward-Center"
             },
             "season_averages": {
-                "pts": 13.1,
+                "pts": 13.0,
                 "reb": 5.0,
                 "ast": 0.8,
                 "tpm": 1.3,
@@ -16260,24 +16260,6 @@
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 22, 2025",
-                    "opponent": "CHA",
-                    "result": "W",
-                    "margin": 6,
-                    "pts": 10,
-                    "ast": 0,
-                    "reb": 7,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 1,
-                    "tpa": 4,
-                    "ft_m": 1,
-                    "ft_a": 1,
-                    "stl": 1,
-                    "blk": 0,
-                    "min": "26"
-                },
                 {
                     "date": "Nov 23, 2025",
                     "opponent": "CLE",
@@ -16673,6 +16655,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "30"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "WAS",
+                    "result": "W",
+                    "margin": 2,
+                    "pts": 11,
+                    "ast": 0,
+                    "reb": 4,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 1,
+                    "tpa": 3,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 1,
+                    "blk": 1,
+                    "min": "26"
                 }
             ]
         },
@@ -16684,11 +16684,11 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 7.6,
-                "reb": 2.9,
-                "ast": 1.5,
+                "pts": 8.0,
+                "reb": 3.0,
+                "ast": 1.6,
                 "tpm": 0.9,
-                "min": 17.4,
+                "min": 17.9,
                 "dd2": 1,
                 "td3": 0
             },
@@ -17052,6 +17052,24 @@
                     "stl": 4,
                     "blk": 0,
                     "min": "46"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "WAS",
+                    "result": "W",
+                    "margin": 19,
+                    "pts": 16,
+                    "ast": 3,
+                    "reb": 5,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 2,
+                    "ft_m": 6,
+                    "ft_a": 8,
+                    "stl": 4,
+                    "blk": 1,
+                    "min": "28"
                 }
             ]
         },
@@ -17514,7 +17532,7 @@
                 "pos": "Guard-Forward"
             },
             "season_averages": {
-                "pts": 4.9,
+                "pts": 4.8,
                 "reb": 2.6,
                 "ast": 0.8,
                 "tpm": 1.5,
@@ -17523,24 +17541,6 @@
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 25, 2025",
-                    "opponent": "LAL",
-                    "result": "L",
-                    "margin": -14,
-                    "pts": 6,
-                    "ast": 0,
-                    "reb": 1,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 2,
-                    "tpa": 3,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 2,
-                    "blk": 0,
-                    "min": "22"
-                },
                 {
                     "date": "Nov 28, 2025",
                     "opponent": "MEM",
@@ -17936,6 +17936,24 @@
                     "stl": 0,
                     "blk": 1,
                     "min": "6"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "WAS",
+                    "result": "W",
+                    "margin": 3,
+                    "pts": 3,
+                    "ast": 1,
+                    "reb": 3,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 1,
+                    "tpa": 4,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 1,
+                    "blk": 0,
+                    "min": "19"
                 }
             ]
         },
@@ -17947,33 +17965,15 @@
                 "pos": "Center"
             },
             "season_averages": {
-                "pts": 14.9,
+                "pts": 14.8,
                 "reb": 10.8,
                 "ast": 2.4,
                 "tpm": 0.0,
                 "min": 31.5,
-                "dd2": 19,
+                "dd2": 20,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 16, 2025",
-                    "opponent": "BOS",
-                    "result": "L",
-                    "margin": -15,
-                    "pts": 16,
-                    "ast": 2,
-                    "reb": 12,
-                    "dd2": 1,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 0,
-                    "ft_m": 4,
-                    "ft_a": 4,
-                    "stl": 1,
-                    "blk": 1,
-                    "min": "34"
-                },
                 {
                     "date": "Nov 17, 2025",
                     "opponent": "PHI",
@@ -18369,6 +18369,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "39"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "WAS",
+                    "result": "W",
+                    "margin": -3,
+                    "pts": 14,
+                    "ast": 1,
+                    "reb": 12,
+                    "dd2": 1,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 0,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 1,
+                    "min": "30"
                 }
             ]
         },
@@ -18669,8 +18687,8 @@
                 "pos": "Forward"
             },
             "season_averages": {
-                "pts": 5.1,
-                "reb": 5.1,
+                "pts": 5.0,
+                "reb": 5.2,
                 "ast": 1.3,
                 "tpm": 0.5,
                 "min": 19.8,
@@ -18678,24 +18696,6 @@
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 05, 2025",
-                    "opponent": "SAS",
-                    "result": "W",
-                    "margin": -2,
-                    "pts": 5,
-                    "ast": 2,
-                    "reb": 0,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 1,
-                    "tpa": 2,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 0,
-                    "blk": 0,
-                    "min": "17"
-                },
                 {
                     "date": "Nov 08, 2025",
                     "opponent": "ATL",
@@ -19091,6 +19091,24 @@
                     "stl": 0,
                     "blk": 1,
                     "min": "18"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": 25,
+                    "pts": 2,
+                    "ast": 1,
+                    "reb": 9,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 0,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 2,
+                    "blk": 2,
+                    "min": "21"
                 }
             ]
         },
@@ -19102,33 +19120,15 @@
                 "pos": "Forward"
             },
             "season_averages": {
-                "pts": 4.9,
+                "pts": 4.8,
                 "reb": 1.6,
                 "ast": 0.4,
                 "tpm": 0.8,
-                "min": 12.8,
+                "min": 12.5,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 15, 2025",
-                    "opponent": "MIL",
-                    "result": "W",
-                    "margin": 24,
-                    "pts": 9,
-                    "ast": 1,
-                    "reb": 6,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 1,
-                    "tpa": 4,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 3,
-                    "blk": 1,
-                    "min": "34"
-                },
                 {
                     "date": "Nov 18, 2025",
                     "opponent": "UTA",
@@ -19524,6 +19524,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "5"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": -1,
+                    "pts": 0,
+                    "ast": 0,
+                    "reb": 1,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 0,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "2"
                 }
             ]
         },
@@ -19535,33 +19553,15 @@
                 "pos": "Center"
             },
             "season_averages": {
-                "pts": 13.9,
-                "reb": 8.7,
+                "pts": 14.2,
+                "reb": 8.8,
                 "ast": 0.9,
                 "tpm": 0.0,
-                "min": 29.4,
-                "dd2": 15,
+                "min": 29.5,
+                "dd2": 16,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 15, 2025",
-                    "opponent": "MIL",
-                    "result": "W",
-                    "margin": 12,
-                    "pts": 20,
-                    "ast": 0,
-                    "reb": 10,
-                    "dd2": 1,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 0,
-                    "ft_m": 2,
-                    "ft_a": 2,
-                    "stl": 2,
-                    "blk": 1,
-                    "min": "28"
-                },
                 {
                     "date": "Nov 18, 2025",
                     "opponent": "UTA",
@@ -19957,6 +19957,24 @@
                     "stl": 1,
                     "blk": 1,
                     "min": "32"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": 20,
+                    "pts": 25,
+                    "ast": 1,
+                    "reb": 13,
+                    "dd2": 1,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 0,
+                    "ft_m": 5,
+                    "ft_a": 6,
+                    "stl": 0,
+                    "blk": 1,
+                    "min": "33"
                 }
             ]
         },
@@ -19972,7 +19990,7 @@
                 "reb": 0.9,
                 "ast": 1.4,
                 "tpm": 1.4,
-                "min": 20.2,
+                "min": 20.1,
                 "dd2": 0,
                 "td3": 0
             },
@@ -20336,6 +20354,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "23"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": 0,
+                    "pts": 5,
+                    "ast": 2,
+                    "reb": 1,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 1,
+                    "tpa": 3,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 1,
+                    "blk": 0,
+                    "min": "17"
                 }
             ]
         },
@@ -20351,29 +20387,11 @@
                 "reb": 0.4,
                 "ast": 1.1,
                 "tpm": 0.3,
-                "min": 7.1,
+                "min": 6.9,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Oct 24, 2025",
-                    "opponent": "MIN",
-                    "result": "W",
-                    "margin": -5,
-                    "pts": 0,
-                    "ast": 0,
-                    "reb": 0,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 0,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 0,
-                    "blk": 0,
-                    "min": "3"
-                },
                 {
                     "date": "Oct 27, 2025",
                     "opponent": "POR",
@@ -20769,6 +20787,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "8"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": -1,
+                    "pts": 0,
+                    "ast": 0,
+                    "reb": 0,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 0,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "2"
                 }
             ]
         },
@@ -20780,33 +20816,15 @@
                 "pos": "Center-Forward"
             },
             "season_averages": {
-                "pts": 6.3,
+                "pts": 6.2,
                 "reb": 4.0,
-                "ast": 0.9,
+                "ast": 0.8,
                 "tpm": 0.0,
-                "min": 17.6,
+                "min": 17.5,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 14, 2025",
-                    "opponent": "NOP",
-                    "result": "W",
-                    "margin": -21,
-                    "pts": 2,
-                    "ast": 1,
-                    "reb": 3,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 0,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 0,
-                    "blk": 0,
-                    "min": "12"
-                },
                 {
                     "date": "Nov 15, 2025",
                     "opponent": "MIL",
@@ -21202,6 +21220,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "19"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": -2,
+                    "pts": 3,
+                    "ast": 0,
+                    "reb": 5,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 0,
+                    "ft_m": 1,
+                    "ft_a": 2,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "13"
                 }
             ]
         },
@@ -21213,33 +21249,15 @@
                 "pos": "Forward"
             },
             "season_averages": {
-                "pts": 9.8,
-                "reb": 4.2,
+                "pts": 9.6,
+                "reb": 4.3,
                 "ast": 2.0,
                 "tpm": 1.2,
-                "min": 27.6,
+                "min": 27.3,
                 "dd2": 1,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 28, 2025",
-                    "opponent": "DAL",
-                    "result": "W",
-                    "margin": -5,
-                    "pts": 0,
-                    "ast": 0,
-                    "reb": 2,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 0,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 0,
-                    "blk": 0,
-                    "min": "14"
-                },
                 {
                     "date": "Nov 30, 2025",
                     "opponent": "NOP",
@@ -21635,6 +21653,24 @@
                     "stl": 1,
                     "blk": 0,
                     "min": "28"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": -6,
+                    "pts": 2,
+                    "ast": 2,
+                    "reb": 5,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 4,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 1,
+                    "blk": 0,
+                    "min": "19"
                 }
             ]
         },
@@ -22458,11 +22494,11 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 6.2,
+                "pts": 6.1,
                 "reb": 0.8,
                 "ast": 1.2,
                 "tpm": 1.2,
-                "min": 13.5,
+                "min": 13.0,
                 "dd2": 0,
                 "td3": 0
             },
@@ -22862,6 +22898,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "10"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": -1,
+                    "pts": 3,
+                    "ast": 0,
+                    "reb": 0,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 1,
+                    "tpa": 2,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "2"
                 }
             ]
         },
@@ -22874,32 +22928,14 @@
             },
             "season_averages": {
                 "pts": 22.6,
-                "reb": 6.0,
+                "reb": 5.9,
                 "ast": 6.9,
                 "tpm": 1.6,
-                "min": 33.2,
+                "min": 33.1,
                 "dd2": 6,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 18, 2025",
-                    "opponent": "UTA",
-                    "result": "W",
-                    "margin": 1,
-                    "pts": 11,
-                    "ast": 12,
-                    "reb": 3,
-                    "dd2": 1,
-                    "dd3": 0,
-                    "tpm": 2,
-                    "tpa": 3,
-                    "ft_m": 1,
-                    "ft_a": 4,
-                    "stl": 1,
-                    "blk": 0,
-                    "min": "30"
-                },
                 {
                     "date": "Nov 23, 2025",
                     "opponent": "UTA",
@@ -23295,6 +23331,24 @@
                     "stl": 1,
                     "blk": 2,
                     "min": "32"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": 18,
+                    "pts": 24,
+                    "ast": 7,
+                    "reb": 4,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 2,
+                    "tpa": 4,
+                    "ft_m": 4,
+                    "ft_a": 4,
+                    "stl": 0,
+                    "blk": 2,
+                    "min": "32"
                 }
             ]
         },
@@ -23306,11 +23360,11 @@
                 "pos": "Forward"
             },
             "season_averages": {
-                "pts": 3.6,
-                "reb": 0.9,
-                "ast": 1.0,
-                "tpm": 0.4,
-                "min": 6.6,
+                "pts": 3.5,
+                "reb": 1.1,
+                "ast": 1.1,
+                "tpm": 0.5,
+                "min": 7.9,
                 "dd2": 0,
                 "td3": 0
             },
@@ -23440,6 +23494,24 @@
                     "stl": 2,
                     "blk": 0,
                     "min": "29"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": 17,
+                    "pts": 3,
+                    "ast": 2,
+                    "reb": 3,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 1,
+                    "tpa": 2,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "16"
                 }
             ]
         },
@@ -23451,33 +23523,15 @@
                 "pos": "Forward"
             },
             "season_averages": {
-                "pts": 12.2,
-                "reb": 3.5,
-                "ast": 0.9,
+                "pts": 12.1,
+                "reb": 3.4,
+                "ast": 0.8,
                 "tpm": 1.7,
-                "min": 31.1,
+                "min": 30.7,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 03, 2025",
-                    "opponent": "POR",
-                    "result": "W",
-                    "margin": 10,
-                    "pts": 28,
-                    "ast": 1,
-                    "reb": 4,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 2,
-                    "tpa": 4,
-                    "ft_m": 6,
-                    "ft_a": 6,
-                    "stl": 1,
-                    "blk": 1,
-                    "min": "38"
-                },
                 {
                     "date": "Nov 05, 2025",
                     "opponent": "SAS",
@@ -23873,6 +23927,24 @@
                     "stl": 2,
                     "blk": 1,
                     "min": "19"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": 8,
+                    "pts": 10,
+                    "ast": 0,
+                    "reb": 0,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 2,
+                    "tpa": 6,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "21"
                 }
             ]
         },
@@ -23975,33 +24047,15 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 9.9,
-                "reb": 3.1,
+                "pts": 9.8,
+                "reb": 3.2,
                 "ast": 2.9,
                 "tpm": 1.6,
-                "min": 28.5,
+                "min": 28.3,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 10, 2025",
-                    "opponent": "CHA",
-                    "result": "W",
-                    "margin": 15,
-                    "pts": 13,
-                    "ast": 5,
-                    "reb": 4,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 3,
-                    "tpa": 7,
-                    "ft_m": 2,
-                    "ft_a": 2,
-                    "stl": 7,
-                    "blk": 0,
-                    "min": "37"
-                },
                 {
                     "date": "Nov 12, 2025",
                     "opponent": "OKC",
@@ -24397,6 +24451,24 @@
                     "stl": 1,
                     "blk": 0,
                     "min": "25"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": 12,
+                    "pts": 8,
+                    "ast": 3,
+                    "reb": 5,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 2,
+                    "tpa": 3,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 1,
+                    "blk": 0,
+                    "min": "25"
                 }
             ]
         },
@@ -24408,11 +24480,11 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 4.0,
-                "reb": 1.7,
-                "ast": 0.7,
-                "tpm": 0.7,
-                "min": 14.3,
+                "pts": 3.0,
+                "reb": 1.2,
+                "ast": 0.5,
+                "tpm": 0.5,
+                "min": 11.2,
                 "dd2": 0,
                 "td3": 0
             },
@@ -24470,6 +24542,24 @@
                     "stl": 0,
                     "blk": 2,
                     "min": "22"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": -1,
+                    "pts": 0,
+                    "ast": 0,
+                    "reb": 0,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 0,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "2"
                 }
             ]
         },
@@ -24481,33 +24571,15 @@
                 "pos": "Forward-Guard"
             },
             "season_averages": {
-                "pts": 33.6,
-                "reb": 7.7,
-                "ast": 8.7,
-                "tpm": 3.4,
-                "min": 36.4,
+                "pts": 33.3,
+                "reb": 7.5,
+                "ast": 8.6,
+                "tpm": 3.5,
+                "min": 36.3,
                 "dd2": 19,
                 "td3": 4
             },
             "last_15": [
-                {
-                    "date": "Nov 15, 2025",
-                    "opponent": "MIL",
-                    "result": "W",
-                    "margin": 25,
-                    "pts": 41,
-                    "ast": 6,
-                    "reb": 9,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 5,
-                    "tpa": 11,
-                    "ft_m": 18,
-                    "ft_a": 20,
-                    "stl": 1,
-                    "blk": 2,
-                    "min": "38"
-                },
                 {
                     "date": "Nov 18, 2025",
                     "opponent": "UTA",
@@ -24903,6 +24975,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "36"
+                },
+                {
+                    "date": "Jan 18, 2026",
+                    "opponent": "TOR",
+                    "result": "W",
+                    "margin": -3,
+                    "pts": 25,
+                    "ast": 7,
+                    "reb": 2,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 5,
+                    "tpa": 12,
+                    "ft_m": 4,
+                    "ft_a": 5,
+                    "stl": 1,
+                    "blk": 1,
+                    "min": "34"
                 }
             ]
         },
@@ -30068,24 +30158,6 @@
             },
             "last_15": [
                 {
-                    "date": "Nov 21, 2025",
-                    "opponent": "CHI",
-                    "result": "W",
-                    "margin": 12,
-                    "pts": 16,
-                    "ast": 6,
-                    "reb": 0,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 2,
-                    "ft_m": 2,
-                    "ft_a": 4,
-                    "stl": 1,
-                    "blk": 0,
-                    "min": "24"
-                },
-                {
                     "date": "Nov 23, 2025",
                     "opponent": "PHI",
                     "result": "W",
@@ -30480,6 +30552,24 @@
                     "stl": 1,
                     "blk": 0,
                     "min": "19"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "GSW",
+                    "result": "L",
+                    "margin": -17,
+                    "pts": 7,
+                    "ast": 3,
+                    "reb": 6,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 1,
+                    "tpa": 4,
+                    "ft_m": 4,
+                    "ft_a": 4,
+                    "stl": 3,
+                    "blk": 1,
+                    "min": "25"
                 }
             ]
         },
@@ -31052,33 +31142,15 @@
                 "pos": "Guard-Forward"
             },
             "season_averages": {
-                "pts": 17.4,
+                "pts": 17.6,
                 "reb": 2.6,
-                "ast": 7.2,
-                "tpm": 1.8,
-                "min": 31.8,
+                "ast": 7.1,
+                "tpm": 1.9,
+                "min": 31.9,
                 "dd2": 5,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 26, 2025",
-                    "opponent": "TOR",
-                    "result": "L",
-                    "margin": -20,
-                    "pts": 9,
-                    "ast": 4,
-                    "reb": 4,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 1,
-                    "tpa": 5,
-                    "ft_m": 4,
-                    "ft_a": 6,
-                    "stl": 2,
-                    "blk": 0,
-                    "min": "35"
-                },
                 {
                     "date": "Nov 29, 2025",
                     "opponent": "CHI",
@@ -31474,6 +31546,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "33"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "PHI",
+                    "result": "L",
+                    "margin": -10,
+                    "pts": 25,
+                    "ast": 5,
+                    "reb": 2,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 3,
+                    "tpa": 7,
+                    "ft_m": 4,
+                    "ft_a": 5,
+                    "stl": 1,
+                    "blk": 0,
+                    "min": "36"
                 }
             ]
         },
@@ -31903,30 +31993,12 @@
                 "pts": 9.0,
                 "reb": 4.2,
                 "ast": 1.9,
-                "tpm": 1.6,
+                "tpm": 1.5,
                 "min": 23.1,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Dec 01, 2025",
-                    "opponent": "CLE",
-                    "result": "L",
-                    "margin": -2,
-                    "pts": 7,
-                    "ast": 3,
-                    "reb": 5,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 5,
-                    "ft_m": 3,
-                    "ft_a": 4,
-                    "stl": 2,
-                    "blk": 0,
-                    "min": "29"
-                },
                 {
                     "date": "Dec 03, 2025",
                     "opponent": "DEN",
@@ -32322,6 +32394,24 @@
                     "stl": 1,
                     "blk": 0,
                     "min": "26"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "PHI",
+                    "result": "L",
+                    "margin": -3,
+                    "pts": 8,
+                    "ast": 2,
+                    "reb": 5,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 1,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 2,
+                    "min": "22"
                 }
             ]
         },
@@ -32551,32 +32641,14 @@
             },
             "season_averages": {
                 "pts": 9.9,
-                "reb": 2.3,
-                "ast": 5.1,
+                "reb": 2.2,
+                "ast": 5.0,
                 "tpm": 0.4,
-                "min": 17.4,
+                "min": 17.3,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 26, 2025",
-                    "opponent": "TOR",
-                    "result": "L",
-                    "margin": 19,
-                    "pts": 16,
-                    "ast": 6,
-                    "reb": 7,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 4,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 0,
-                    "blk": 0,
-                    "min": "24"
-                },
                 {
                     "date": "Nov 28, 2025",
                     "opponent": "WAS",
@@ -32972,6 +33044,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "16"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "PHI",
+                    "result": "L",
+                    "margin": -1,
+                    "pts": 10,
+                    "ast": 3,
+                    "reb": 0,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 0,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 1,
+                    "blk": 1,
+                    "min": "14"
                 }
             ]
         },
@@ -32983,11 +33073,11 @@
                 "pos": "Center"
             },
             "season_averages": {
-                "pts": 7.2,
-                "reb": 3.9,
-                "ast": 1.6,
+                "pts": 6.6,
+                "reb": 3.6,
+                "ast": 1.5,
                 "tpm": 1.2,
-                "min": 18.2,
+                "min": 16.9,
                 "dd2": 1,
                 "td3": 0
             },
@@ -33207,6 +33297,24 @@
                     "stl": 1,
                     "blk": 0,
                     "min": "33"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "PHI",
+                    "result": "L",
+                    "margin": 2,
+                    "pts": 0,
+                    "ast": 0,
+                    "reb": 0,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 0,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "1"
                 }
             ]
         },
@@ -33218,33 +33326,15 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 5.3,
-                "reb": 3.9,
+                "pts": 5.2,
+                "reb": 3.8,
                 "ast": 0.7,
                 "tpm": 0.7,
-                "min": 17.2,
+                "min": 17.1,
                 "dd2": 1,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 03, 2025",
-                    "opponent": "MIL",
-                    "result": "L",
-                    "margin": 12,
-                    "pts": 3,
-                    "ast": 0,
-                    "reb": 3,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 1,
-                    "tpa": 1,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 0,
-                    "blk": 0,
-                    "min": "13"
-                },
                 {
                     "date": "Dec 03, 2025",
                     "opponent": "DEN",
@@ -33640,6 +33730,24 @@
                     "stl": 2,
                     "blk": 1,
                     "min": "24"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "PHI",
+                    "result": "L",
+                    "margin": -5,
+                    "pts": 3,
+                    "ast": 1,
+                    "reb": 3,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 1,
+                    "tpa": 1,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "14"
                 }
             ]
         },
@@ -33651,33 +33759,15 @@
                 "pos": "Forward"
             },
             "season_averages": {
-                "pts": 7.4,
-                "reb": 5.9,
+                "pts": 7.2,
+                "reb": 5.7,
                 "ast": 0.8,
                 "tpm": 0.0,
-                "min": 18.2,
+                "min": 17.9,
                 "dd2": 5,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 05, 2025",
-                    "opponent": "BKN",
-                    "result": "L",
-                    "margin": -9,
-                    "pts": 8,
-                    "ast": 1,
-                    "reb": 7,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 0,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 1,
-                    "blk": 0,
-                    "min": "20"
-                },
                 {
                     "date": "Nov 08, 2025",
                     "opponent": "DEN",
@@ -34073,6 +34163,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "17"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "PHI",
+                    "result": "L",
+                    "margin": -3,
+                    "pts": 0,
+                    "ast": 0,
+                    "reb": 1,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 0,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "7"
                 }
             ]
         },
@@ -34084,11 +34192,11 @@
                 "pos": "Guard-Forward"
             },
             "season_averages": {
-                "pts": 13.7,
-                "reb": 5.0,
+                "pts": 13.4,
+                "reb": 5.3,
                 "ast": 2.0,
-                "tpm": 2.6,
-                "min": 30.2,
+                "tpm": 2.5,
+                "min": 30.3,
                 "dd2": 0,
                 "td3": 0
             },
@@ -34488,6 +34596,24 @@
                     "stl": 1,
                     "blk": 0,
                     "min": "33"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "PHI",
+                    "result": "L",
+                    "margin": -10,
+                    "pts": 7,
+                    "ast": 1,
+                    "reb": 11,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 6,
+                    "ft_m": 5,
+                    "ft_a": 5,
+                    "stl": 1,
+                    "blk": 2,
+                    "min": "32"
                 }
             ]
         },
@@ -34499,33 +34625,15 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 6.5,
-                "reb": 3.5,
+                "pts": 6.4,
+                "reb": 3.4,
                 "ast": 1.8,
                 "tpm": 1.2,
-                "min": 23.1,
+                "min": 22.8,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 09, 2025",
-                    "opponent": "GSW",
-                    "result": "L",
-                    "margin": -17,
-                    "pts": 3,
-                    "ast": 0,
-                    "reb": 4,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 1,
-                    "tpa": 6,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 0,
-                    "blk": 0,
-                    "min": "27"
-                },
                 {
                     "date": "Nov 11, 2025",
                     "opponent": "UTA",
@@ -34921,6 +35029,24 @@
                     "stl": 1,
                     "blk": 1,
                     "min": "14"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "PHI",
+                    "result": "L",
+                    "margin": -1,
+                    "pts": 3,
+                    "ast": 1,
+                    "reb": 1,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 1,
+                    "tpa": 3,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 1,
+                    "blk": 0,
+                    "min": "13"
                 }
             ]
         },
@@ -34932,11 +35058,11 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 7.6,
+                "pts": 7.5,
                 "reb": 2.0,
-                "ast": 1.9,
-                "tpm": 0.7,
-                "min": 15.8,
+                "ast": 2.0,
+                "tpm": 0.8,
+                "min": 16.2,
                 "dd2": 1,
                 "td3": 0
             },
@@ -35300,6 +35426,24 @@
                     "stl": 2,
                     "blk": 0,
                     "min": "20"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "PHI",
+                    "result": "L",
+                    "margin": 1,
+                    "pts": 6,
+                    "ast": 3,
+                    "reb": 4,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 2,
+                    "tpa": 4,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 1,
+                    "min": "25"
                 }
             ]
         },
@@ -35311,7 +35455,7 @@
                 "pos": "Center"
             },
             "season_averages": {
-                "pts": 8.7,
+                "pts": 8.8,
                 "reb": 3.8,
                 "ast": 1.3,
                 "tpm": 1.4,
@@ -35320,24 +35464,6 @@
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Dec 01, 2025",
-                    "opponent": "CLE",
-                    "result": "L",
-                    "margin": -5,
-                    "pts": 15,
-                    "ast": 1,
-                    "reb": 3,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 3,
-                    "tpa": 6,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 0,
-                    "blk": 3,
-                    "min": "26"
-                },
                 {
                     "date": "Dec 03, 2025",
                     "opponent": "DEN",
@@ -35733,6 +35859,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "13"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "PHI",
+                    "result": "L",
+                    "margin": -11,
+                    "pts": 10,
+                    "ast": 1,
+                    "reb": 6,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 2,
+                    "tpa": 4,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 3,
+                    "min": "23"
                 }
             ]
         },
@@ -35746,31 +35890,13 @@
             "season_averages": {
                 "pts": 23.6,
                 "reb": 6.9,
-                "ast": 3.9,
+                "ast": 4.0,
                 "tpm": 1.8,
                 "min": 33.9,
                 "dd2": 8,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 29, 2025",
-                    "opponent": "CHI",
-                    "result": "W",
-                    "margin": 22,
-                    "pts": 24,
-                    "ast": 4,
-                    "reb": 9,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 1,
-                    "tpa": 4,
-                    "ft_m": 1,
-                    "ft_a": 2,
-                    "stl": 2,
-                    "blk": 2,
-                    "min": "36"
-                },
                 {
                     "date": "Dec 01, 2025",
                     "opponent": "CLE",
@@ -36166,6 +36292,24 @@
                     "stl": 0,
                     "blk": 1,
                     "min": "34"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "PHI",
+                    "result": "L",
+                    "margin": -9,
+                    "pts": 24,
+                    "ast": 7,
+                    "reb": 6,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 4,
+                    "tpa": 8,
+                    "ft_m": 2,
+                    "ft_a": 4,
+                    "stl": 0,
+                    "blk": 0,
+                    "min": "35"
                 }
             ]
         },
@@ -42297,32 +42441,14 @@
             },
             "season_averages": {
                 "pts": 17.8,
-                "reb": 10.8,
+                "reb": 10.7,
                 "ast": 1.8,
                 "tpm": 0.0,
-                "min": 28.2,
+                "min": 28.3,
                 "dd2": 19,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 10, 2025",
-                    "opponent": "WAS",
-                    "result": "W",
-                    "margin": -6,
-                    "pts": 19,
-                    "ast": 3,
-                    "reb": 14,
-                    "dd2": 1,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 0,
-                    "ft_m": 7,
-                    "ft_a": 11,
-                    "stl": 2,
-                    "blk": 0,
-                    "min": "40"
-                },
                 {
                     "date": "Nov 17, 2025",
                     "opponent": "IND",
@@ -42718,6 +42844,24 @@
                     "stl": 1,
                     "blk": 0,
                     "min": "23"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "BOS",
+                    "result": "W",
+                    "margin": -4,
+                    "pts": 18,
+                    "ast": 1,
+                    "reb": 9,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 0,
+                    "ft_m": 2,
+                    "ft_a": 5,
+                    "stl": 1,
+                    "blk": 0,
+                    "min": "31"
                 }
             ]
         },
@@ -42729,33 +42873,15 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 25.9,
-                "reb": 6.0,
-                "ast": 9.6,
-                "tpm": 2.0,
-                "min": 35.3,
-                "dd2": 21,
+                "pts": 25.7,
+                "reb": 5.9,
+                "ast": 9.8,
+                "tpm": 1.9,
+                "min": 35.4,
+                "dd2": 22,
                 "td3": 3
             },
             "last_15": [
-                {
-                    "date": "Nov 22, 2025",
-                    "opponent": "MIL",
-                    "result": "W",
-                    "margin": 14,
-                    "pts": 29,
-                    "ast": 10,
-                    "reb": 8,
-                    "dd2": 1,
-                    "dd3": 0,
-                    "tpm": 3,
-                    "tpa": 6,
-                    "ft_m": 6,
-                    "ft_a": 6,
-                    "stl": 1,
-                    "blk": 1,
-                    "min": "33"
-                },
                 {
                     "date": "Nov 24, 2025",
                     "opponent": "IND",
@@ -43151,6 +43277,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "21"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "BOS",
+                    "result": "W",
+                    "margin": 1,
+                    "pts": 16,
+                    "ast": 14,
+                    "reb": 3,
+                    "dd2": 1,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 4,
+                    "ft_m": 8,
+                    "ft_a": 10,
+                    "stl": 1,
+                    "blk": 2,
+                    "min": "40"
                 }
             ]
         },
@@ -43253,33 +43397,15 @@
                 "pos": "Forward"
             },
             "season_averages": {
-                "pts": 8.4,
+                "pts": 8.3,
                 "reb": 4.4,
                 "ast": 1.4,
                 "tpm": 0.6,
-                "min": 21.1,
+                "min": 20.9,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 22, 2025",
-                    "opponent": "MIL",
-                    "result": "W",
-                    "margin": 0,
-                    "pts": 4,
-                    "ast": 2,
-                    "reb": 2,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 3,
-                    "ft_m": 0,
-                    "ft_a": 2,
-                    "stl": 2,
-                    "blk": 0,
-                    "min": "17"
-                },
                 {
                     "date": "Nov 24, 2025",
                     "opponent": "IND",
@@ -43675,6 +43801,24 @@
                     "stl": 2,
                     "blk": 1,
                     "min": "24"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "BOS",
+                    "result": "W",
+                    "margin": 3,
+                    "pts": 3,
+                    "ast": 1,
+                    "reb": 4,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 1,
+                    "ft_m": 1,
+                    "ft_a": 1,
+                    "stl": 1,
+                    "blk": 0,
+                    "min": "12"
                 }
             ]
         },
@@ -44119,33 +44263,15 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 8.1,
+                "pts": 7.9,
                 "reb": 1.8,
-                "ast": 2.9,
+                "ast": 2.8,
                 "tpm": 1.1,
-                "min": 19.8,
+                "min": 19.7,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 12, 2025",
-                    "opponent": "CHI",
-                    "result": "W",
-                    "margin": 3,
-                    "pts": 17,
-                    "ast": 5,
-                    "reb": 1,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 1,
-                    "ft_m": 1,
-                    "ft_a": 2,
-                    "stl": 1,
-                    "blk": 2,
-                    "min": "22"
-                },
                 {
                     "date": "Nov 14, 2025",
                     "opponent": "PHI",
@@ -44541,6 +44667,24 @@
                     "stl": 1,
                     "blk": 2,
                     "min": "20"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "BOS",
+                    "result": "W",
+                    "margin": 1,
+                    "pts": 2,
+                    "ast": 1,
+                    "reb": 3,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 4,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 1,
+                    "blk": 0,
+                    "min": "17"
                 }
             ]
         },
@@ -44625,8 +44769,8 @@
                 "pos": "Guard-Forward"
             },
             "season_averages": {
-                "pts": 10.9,
-                "reb": 5.8,
+                "pts": 10.8,
+                "reb": 5.9,
                 "ast": 2.6,
                 "tpm": 0.1,
                 "min": 25.9,
@@ -44634,24 +44778,6 @@
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 26, 2025",
-                    "opponent": "BOS",
-                    "result": "L",
-                    "margin": 1,
-                    "pts": 8,
-                    "ast": 2,
-                    "reb": 8,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 1,
-                    "tpa": 2,
-                    "ft_m": 3,
-                    "ft_a": 4,
-                    "stl": 1,
-                    "blk": 1,
-                    "min": "26"
-                },
                 {
                     "date": "Nov 28, 2025",
                     "opponent": "ORL",
@@ -45047,6 +45173,24 @@
                     "stl": 3,
                     "blk": 1,
                     "min": "16"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "BOS",
+                    "result": "W",
+                    "margin": -6,
+                    "pts": 7,
+                    "ast": 2,
+                    "reb": 7,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 0,
+                    "ft_m": 1,
+                    "ft_a": 1,
+                    "stl": 4,
+                    "blk": 1,
+                    "min": "28"
                 }
             ]
         },
@@ -45058,33 +45202,15 @@
                 "pos": "Forward"
             },
             "season_averages": {
-                "pts": 13.3,
-                "reb": 4.7,
+                "pts": 13.7,
+                "reb": 4.6,
                 "ast": 2.5,
                 "tpm": 1.3,
-                "min": 27.1,
+                "min": 27.4,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Oct 26, 2025",
-                    "opponent": "BOS",
-                    "result": "W",
-                    "margin": 7,
-                    "pts": 18,
-                    "ast": 4,
-                    "reb": 8,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 2,
-                    "tpa": 7,
-                    "ft_m": 2,
-                    "ft_a": 2,
-                    "stl": 0,
-                    "blk": 0,
-                    "min": "35"
-                },
                 {
                     "date": "Oct 27, 2025",
                     "opponent": "CLE",
@@ -45480,6 +45606,24 @@
                     "stl": 1,
                     "blk": 0,
                     "min": "18"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "BOS",
+                    "result": "W",
+                    "margin": 0,
+                    "pts": 25,
+                    "ast": 1,
+                    "reb": 3,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 3,
+                    "tpa": 8,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 1,
+                    "min": "35"
                 }
             ]
         },
@@ -45798,33 +45942,15 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 8.5,
+                "pts": 8.4,
                 "reb": 2.2,
                 "ast": 1.7,
-                "tpm": 1.1,
+                "tpm": 1.2,
                 "min": 17.0,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 26, 2025",
-                    "opponent": "BOS",
-                    "result": "L",
-                    "margin": -5,
-                    "pts": 7,
-                    "ast": 0,
-                    "reb": 4,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 5,
-                    "ft_m": 3,
-                    "ft_a": 3,
-                    "stl": 1,
-                    "blk": 0,
-                    "min": "15"
-                },
                 {
                     "date": "Nov 28, 2025",
                     "opponent": "ORL",
@@ -46220,6 +46346,24 @@
                     "stl": 0,
                     "blk": 1,
                     "min": "21"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "BOS",
+                    "result": "W",
+                    "margin": 2,
+                    "pts": 7,
+                    "ast": 2,
+                    "reb": 3,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 2,
+                    "tpa": 3,
+                    "ft_m": 1,
+                    "ft_a": 2,
+                    "stl": 0,
+                    "blk": 2,
+                    "min": "17"
                 }
             ]
         },
@@ -46881,33 +47025,15 @@
                 "pos": "Forward-Center"
             },
             "season_averages": {
-                "pts": 10.2,
+                "pts": 10.1,
                 "reb": 5.6,
                 "ast": 1.2,
                 "tpm": 0.9,
-                "min": 23.6,
+                "min": 23.5,
                 "dd2": 2,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 24, 2025",
-                    "opponent": "IND",
-                    "result": "W",
-                    "margin": -3,
-                    "pts": 9,
-                    "ast": 0,
-                    "reb": 5,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 1,
-                    "tpa": 2,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 1,
-                    "blk": 1,
-                    "min": "20"
-                },
                 {
                     "date": "Nov 26, 2025",
                     "opponent": "BOS",
@@ -47303,6 +47429,24 @@
                     "stl": 1,
                     "blk": 1,
                     "min": "21"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "BOS",
+                    "result": "W",
+                    "margin": 8,
+                    "pts": 8,
+                    "ast": 0,
+                    "reb": 5,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 0,
+                    "tpa": 2,
+                    "ft_m": 4,
+                    "ft_a": 4,
+                    "stl": 0,
+                    "blk": 1,
+                    "min": "21"
                 }
             ]
         },
@@ -47314,33 +47458,15 @@
                 "pos": "Guard"
             },
             "season_averages": {
-                "pts": 7.4,
-                "reb": 2.8,
+                "pts": 7.3,
+                "reb": 2.7,
                 "ast": 0.8,
                 "tpm": 1.1,
-                "min": 19.8,
+                "min": 19.5,
                 "dd2": 1,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 26, 2025",
-                    "opponent": "BOS",
-                    "result": "L",
-                    "margin": -1,
-                    "pts": 0,
-                    "ast": 0,
-                    "reb": 1,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 0,
-                    "tpa": 1,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 0,
-                    "blk": 1,
-                    "min": "10"
-                },
                 {
                     "date": "Nov 28, 2025",
                     "opponent": "ORL",
@@ -47736,6 +47862,24 @@
                     "stl": 1,
                     "blk": 0,
                     "min": "20"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "BOS",
+                    "result": "W",
+                    "margin": 4,
+                    "pts": 3,
+                    "ast": 0,
+                    "reb": 1,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 1,
+                    "tpa": 2,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 0,
+                    "blk": 1,
+                    "min": "7"
                 }
             ]
         },
@@ -47987,29 +48131,11 @@
                 "reb": 2.7,
                 "ast": 1.9,
                 "tpm": 2.9,
-                "min": 28.8,
+                "min": 28.9,
                 "dd2": 0,
                 "td3": 0
             },
             "last_15": [
-                {
-                    "date": "Nov 22, 2025",
-                    "opponent": "MIL",
-                    "result": "W",
-                    "margin": 16,
-                    "pts": 15,
-                    "ast": 2,
-                    "reb": 3,
-                    "dd2": 0,
-                    "dd3": 0,
-                    "tpm": 5,
-                    "tpa": 6,
-                    "ft_m": 0,
-                    "ft_a": 0,
-                    "stl": 2,
-                    "blk": 0,
-                    "min": "28"
-                },
                 {
                     "date": "Nov 24, 2025",
                     "opponent": "IND",
@@ -48405,6 +48531,24 @@
                     "stl": 0,
                     "blk": 0,
                     "min": "22"
+                },
+                {
+                    "date": "Jan 19, 2026",
+                    "opponent": "BOS",
+                    "result": "W",
+                    "margin": -4,
+                    "pts": 15,
+                    "ast": 2,
+                    "reb": 3,
+                    "dd2": 0,
+                    "dd3": 0,
+                    "tpm": 5,
+                    "tpa": 11,
+                    "ft_m": 0,
+                    "ft_a": 0,
+                    "stl": 1,
+                    "blk": 1,
+                    "min": "32"
                 }
             ]
         }
