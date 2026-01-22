@@ -1,77 +1,5 @@
 [
     {
-        "DAY_LABEL": "Miércoles 21 de Enero",
-        "TIME_ONLY": "00:00",
-        "STADIUM": "Ball Arena",
-        "MATCHUP": "LAL @ DEN",
-        "HOME_TEAM": "DEN",
-        "AWAY_TEAM": "LAL"
-    },
-    {
-        "DAY_LABEL": "Miércoles 21 de Enero",
-        "TIME_ONLY": "00:00",
-        "STADIUM": "Chase Center",
-        "MATCHUP": "TOR @ GSW",
-        "HOME_TEAM": "GSW",
-        "AWAY_TEAM": "TOR"
-    },
-    {
-        "DAY_LABEL": "Miércoles 21 de Enero",
-        "TIME_ONLY": "00:00",
-        "STADIUM": "Golden 1 Center",
-        "MATCHUP": "MIA @ SAC",
-        "HOME_TEAM": "SAC",
-        "AWAY_TEAM": "MIA"
-    },
-    {
-        "DAY_LABEL": "Miércoles 21 de Enero",
-        "TIME_ONLY": "21:00",
-        "STADIUM": "Spectrum Center",
-        "MATCHUP": "CLE @ CHA",
-        "HOME_TEAM": "CHA",
-        "AWAY_TEAM": "CLE"
-    },
-    {
-        "DAY_LABEL": "Miércoles 21 de Enero",
-        "TIME_ONLY": "21:29",
-        "STADIUM": "TD Garden",
-        "MATCHUP": "IND @ BOS",
-        "HOME_TEAM": "BOS",
-        "AWAY_TEAM": "IND"
-    },
-    {
-        "DAY_LABEL": "Miércoles 21 de Enero",
-        "TIME_ONLY": "21:29",
-        "STADIUM": "Madison Square Garden",
-        "MATCHUP": "BKN @ NYK",
-        "HOME_TEAM": "NYK",
-        "AWAY_TEAM": "BKN"
-    },
-    {
-        "DAY_LABEL": "Miércoles 21 de Enero",
-        "TIME_ONLY": "22:00",
-        "STADIUM": "FedExForum",
-        "MATCHUP": "ATL @ MEM",
-        "HOME_TEAM": "MEM",
-        "AWAY_TEAM": "ATL"
-    },
-    {
-        "DAY_LABEL": "Miércoles 21 de Enero",
-        "TIME_ONLY": "22:00",
-        "STADIUM": "Smoothie King Center",
-        "MATCHUP": "DET @ NOP",
-        "HOME_TEAM": "NOP",
-        "AWAY_TEAM": "DET"
-    },
-    {
-        "DAY_LABEL": "Miércoles 21 de Enero",
-        "TIME_ONLY": "23:30",
-        "STADIUM": "Fiserv Forum",
-        "MATCHUP": "OKC @ MIL",
-        "HOME_TEAM": "MIL",
-        "AWAY_TEAM": "OKC"
-    },
-    {
         "DAY_LABEL": "Jueves 22 de Enero",
         "TIME_ONLY": "00:00",
         "STADIUM": "Golden 1 Center",
@@ -290,18 +218,18 @@
     {
         "DAY_LABEL": "Domingo 25 de Enero",
         "TIME_ONLY": "21:00",
-        "STADIUM": "Paycom Center",
-        "MATCHUP": "TOR @ OKC",
-        "HOME_TEAM": "OKC",
-        "AWAY_TEAM": "TOR"
-    },
-    {
-        "DAY_LABEL": "Domingo 25 de Enero",
-        "TIME_ONLY": "21:00",
         "STADIUM": "Fiserv Forum",
         "MATCHUP": "DAL @ MIL",
         "HOME_TEAM": "MIL",
         "AWAY_TEAM": "DAL"
+    },
+    {
+        "DAY_LABEL": "Domingo 25 de Enero",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Paycom Center",
+        "MATCHUP": "TOR @ OKC",
+        "HOME_TEAM": "OKC",
+        "AWAY_TEAM": "TOR"
     },
     {
         "DAY_LABEL": "Domingo 25 de Enero",
@@ -346,18 +274,18 @@
     {
         "DAY_LABEL": "Lunes 26 de Enero",
         "TIME_ONLY": "22:00",
-        "STADIUM": "United Center",
-        "MATCHUP": "LAL @ CHI",
-        "HOME_TEAM": "CHI",
-        "AWAY_TEAM": "LAL"
-    },
-    {
-        "DAY_LABEL": "Lunes 26 de Enero",
-        "TIME_ONLY": "22:00",
         "STADIUM": "Toyota Center",
         "MATCHUP": "MEM @ HOU",
         "HOME_TEAM": "HOU",
         "AWAY_TEAM": "MEM"
+    },
+    {
+        "DAY_LABEL": "Lunes 26 de Enero",
+        "TIME_ONLY": "22:00",
+        "STADIUM": "United Center",
+        "MATCHUP": "LAL @ CHI",
+        "HOME_TEAM": "CHI",
+        "AWAY_TEAM": "LAL"
     },
     {
         "DAY_LABEL": "Lunes 26 de Enero",
@@ -434,18 +362,18 @@
     {
         "DAY_LABEL": "Miércoles 28 de Enero",
         "TIME_ONLY": "21:00",
-        "STADIUM": "Gainbridge Fieldhouse",
-        "MATCHUP": "CHI @ IND",
-        "HOME_TEAM": "IND",
-        "AWAY_TEAM": "CHI"
-    },
-    {
-        "DAY_LABEL": "Miércoles 28 de Enero",
-        "TIME_ONLY": "21:00",
         "STADIUM": "Rocket Arena",
         "MATCHUP": "LAL @ CLE",
         "HOME_TEAM": "CLE",
         "AWAY_TEAM": "LAL"
+    },
+    {
+        "DAY_LABEL": "Miércoles 28 de Enero",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Gainbridge Fieldhouse",
+        "MATCHUP": "CHI @ IND",
+        "HOME_TEAM": "IND",
+        "AWAY_TEAM": "CHI"
     },
     {
         "DAY_LABEL": "Miércoles 28 de Enero",
@@ -478,5 +406,77 @@
         "MATCHUP": "CHA @ MEM",
         "HOME_TEAM": "MEM",
         "AWAY_TEAM": "CHA"
+    },
+    {
+        "DAY_LABEL": "Miércoles 28 de Enero",
+        "TIME_ONLY": "22:30",
+        "STADIUM": "American Airlines Center",
+        "MATCHUP": "MIN @ DAL",
+        "HOME_TEAM": "DAL",
+        "AWAY_TEAM": "MIN"
+    },
+    {
+        "DAY_LABEL": "Miércoles 28 de Enero",
+        "TIME_ONLY": "22:59",
+        "STADIUM": "Delta Center",
+        "MATCHUP": "GSW @ UTA",
+        "HOME_TEAM": "UTA",
+        "AWAY_TEAM": "GSW"
+    },
+    {
+        "DAY_LABEL": "Miércoles 28 de Enero",
+        "TIME_ONLY": "23:30",
+        "STADIUM": "Toyota Center",
+        "MATCHUP": "SAS @ HOU",
+        "HOME_TEAM": "HOU",
+        "AWAY_TEAM": "SAS"
+    },
+    {
+        "DAY_LABEL": "Jueves 29 de Enero",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Xfinity Mobile Arena",
+        "MATCHUP": "SAC @ PHI",
+        "HOME_TEAM": "PHI",
+        "AWAY_TEAM": "SAC"
+    },
+    {
+        "DAY_LABEL": "Jueves 29 de Enero",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Capital One Arena",
+        "MATCHUP": "MIL @ WAS",
+        "HOME_TEAM": "WAS",
+        "AWAY_TEAM": "MIL"
+    },
+    {
+        "DAY_LABEL": "Jueves 29 de Enero",
+        "TIME_ONLY": "22:00",
+        "STADIUM": "State Farm Arena",
+        "MATCHUP": "HOU @ ATL",
+        "HOME_TEAM": "ATL",
+        "AWAY_TEAM": "HOU"
+    },
+    {
+        "DAY_LABEL": "Jueves 29 de Enero",
+        "TIME_ONLY": "22:30",
+        "STADIUM": "American Airlines Center",
+        "MATCHUP": "CHA @ DAL",
+        "HOME_TEAM": "DAL",
+        "AWAY_TEAM": "CHA"
+    },
+    {
+        "DAY_LABEL": "Jueves 29 de Enero",
+        "TIME_ONLY": "22:59",
+        "STADIUM": "Ball Arena",
+        "MATCHUP": "BKN @ DEN",
+        "HOME_TEAM": "DEN",
+        "AWAY_TEAM": "BKN"
+    },
+    {
+        "DAY_LABEL": "Jueves 29 de Enero",
+        "TIME_ONLY": "22:59",
+        "STADIUM": "Mortgage Matchup Center",
+        "MATCHUP": "DET @ PHX",
+        "HOME_TEAM": "PHX",
+        "AWAY_TEAM": "DET"
     }
 ]
