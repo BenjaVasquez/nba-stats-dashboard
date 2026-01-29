@@ -13,47 +13,55 @@
     },
     "Neemias Queta": {
         "status": "yellow",
-        "description": "Jan 28"
-    },
-    "Luka Garza": {
-        "status": "yellow",
-        "description": "Jan 28"
+        "description": "Jan 30"
     },
     "Jayson Tatum": {
         "status": "yellow",
         "description": "Apr 1"
     },
-    "Tyrese Martin": {
+    "Ziaire Williams": {
+        "status": "yellow",
+        "description": "Jan 30"
+    },
+    "Egor Demin": {
+        "status": "yellow",
+        "description": "Jan 30"
+    },
+    "Cam Thomas": {
+        "status": "yellow",
+        "description": "Jan 30"
+    },
+    "Terance Mann": {
         "status": "yellow",
         "description": "Jan 29"
+    },
+    "Noah Clowney": {
+        "status": "yellow",
+        "description": "Jan 30"
     },
     "Haywood Highsmith": {
         "status": "yellow",
         "description": "Feb 1"
     },
-    "Noah Clowney": {
-        "status": "yellow",
-        "description": "Jan 29"
-    },
     "KJ Simpson": {
         "status": "yellow",
-        "description": "Jan 30"
+        "description": "Jan 29"
     },
     "Mason Plumlee": {
         "status": "yellow",
         "description": "Feb 19"
     },
-    "Tre Jones": {
+    "Emanuel Miller": {
         "status": "yellow",
         "description": "Jan 29"
     },
-    "Emanuel Miller": {
-        "status": "yellow",
-        "description": "Jan 28"
-    },
     "Yuki Kawamura": {
         "status": "yellow",
-        "description": "Jan 28"
+        "description": "Jan 29"
+    },
+    "Tre Jones": {
+        "status": "yellow",
+        "description": "Jan 29"
     },
     "Zach Collins": {
         "status": "yellow",
@@ -63,37 +71,29 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "De'Andre Hunter": {
+    "Luke Travers": {
         "status": "yellow",
-        "description": "Jan 28"
+        "description": "Jan 30"
     },
     "Darius Garland": {
         "status": "yellow",
         "description": "Jan 30"
     },
-    "Sam Merrill": {
-        "status": "yellow",
-        "description": "Jan 28"
-    },
     "Evan Mobley": {
         "status": "yellow",
         "description": "Feb 11"
-    },
-    "Luke Travers": {
-        "status": "yellow",
-        "description": "Jan 30"
     },
     "Max Strus": {
         "status": "yellow",
         "description": "Feb 19"
     },
+    "Klay Thompson": {
+        "status": "yellow",
+        "description": "Jan 29"
+    },
     "Cooper Flagg": {
         "status": "yellow",
-        "description": "Jan 28"
-    },
-    "Moussa Cisse": {
-        "status": "yellow",
-        "description": "Jan 28"
+        "description": "Jan 29"
     },
     "Anthony Davis": {
         "status": "yellow",
@@ -111,33 +111,29 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Nikola Jokic": {
+    "Christian Braun": {
         "status": "yellow",
-        "description": "Feb 3"
-    },
-    "Peyton Watson": {
-        "status": "yellow",
-        "description": "Jan 27"
-    },
-    "Cameron Johnson": {
-        "status": "yellow",
-        "description": "Feb 3"
+        "description": "Jan 30"
     },
     "Aaron Gordon": {
         "status": "yellow",
-        "description": "Jan 29"
+        "description": "Jan 30"
     },
     "Jonas Valanciunas": {
-        "status": "yellow",
-        "description": "Jan 27"
-    },
-    "Christian Braun": {
         "status": "yellow",
         "description": "Jan 29"
     },
     "Jamal Murray": {
         "status": "yellow",
-        "description": "Jan 27"
+        "description": "Jan 29"
+    },
+    "Nikola Jokic": {
+        "status": "yellow",
+        "description": "Feb 3"
+    },
+    "Cameron Johnson": {
+        "status": "yellow",
+        "description": "Feb 3"
     },
     "Tamar Bates": {
         "status": "yellow",
@@ -149,15 +145,7 @@
     },
     "L.J. Cryer": {
         "status": "yellow",
-        "description": "Jan 28"
-    },
-    "Gary Payton II": {
-        "status": "yellow",
-        "description": "Jan 28"
-    },
-    "Draymond Green": {
-        "status": "yellow",
-        "description": "Jan 28"
+        "description": "Jan 30"
     },
     "Stephen Curry": {
         "status": "yellow",
@@ -177,15 +165,11 @@
     },
     "Steven Adams": {
         "status": "yellow",
-        "description": "Mar 16"
+        "description": "Oct 1"
     },
     "Fred VanVleet": {
         "status": "yellow",
         "description": "Jun 1"
-    },
-    "Jarace Walker": {
-        "status": "yellow",
-        "description": "Jan 28"
     },
     "Tyrese Haliburton": {
         "status": "yellow",
@@ -195,25 +179,25 @@
         "status": "yellow",
         "description": "Feb 2"
     },
+    "Bogdan Bogdanovic": {
+        "status": "yellow",
+        "description": "Feb 2"
+    },
+    "Derrick Jones Jr.": {
+        "status": "yellow",
+        "description": "Feb 2"
+    },
     "TyTy Washington Jr.": {
         "status": "yellow",
         "description": "Jan 30"
     },
-    "Bogdan Bogdanovic": {
-        "status": "yellow",
-        "description": "Jan 30"
-    },
-    "Kawhi Leonard": {
-        "status": "yellow",
-        "description": "Jan 27"
-    },
-    "Derrick Jones Jr.": {
-        "status": "yellow",
-        "description": "Feb 6"
-    },
     "Bradley Beal": {
         "status": "yellow",
         "description": "Oct 1"
+    },
+    "Luka Doncic": {
+        "status": "yellow",
+        "description": "Jan 28"
     },
     "Austin Reaves": {
         "status": "yellow",
@@ -227,11 +211,11 @@
         "status": "yellow",
         "description": "Jan 30"
     },
-    "Ja Morant": {
-        "status": "yellow",
-        "description": "Feb 20"
-    },
     "Scotty Pippen Jr.": {
+        "status": "yellow",
+        "description": "Jan 31"
+    },
+    "Ja Morant": {
         "status": "yellow",
         "description": "Feb 20"
     },
@@ -243,21 +227,13 @@
         "status": "yellow",
         "description": "Feb 20"
     },
-    "Kel'el Ware": {
-        "status": "yellow",
-        "description": "Jan 28"
-    },
     "Davion Mitchell": {
         "status": "yellow",
-        "description": "Jan 28"
-    },
-    "Norman Powell": {
-        "status": "yellow",
-        "description": "Jan 28"
+        "description": "Jan 29"
     },
     "Tyler Herro": {
         "status": "yellow",
-        "description": "Jan 28"
+        "description": "Jan 29"
     },
     "Terry Rozier": {
         "status": "yellow",
@@ -275,14 +251,6 @@
         "status": "yellow",
         "description": "Feb 20"
     },
-    "Anthony Edwards": {
-        "status": "yellow",
-        "description": "Jan 28"
-    },
-    "Leonard Miller": {
-        "status": "yellow",
-        "description": "Jan 28"
-    },
     "Terrence Shannon Jr.": {
         "status": "yellow",
         "description": "Jan 31"
@@ -291,21 +259,25 @@
         "status": "yellow",
         "description": "Feb 20"
     },
+    "Mitchell Robinson": {
+        "status": "yellow",
+        "description": "Jan 30"
+    },
+    "Miles McBride": {
+        "status": "yellow",
+        "description": "Jan 30"
+    },
+    "Ajay Mitchell": {
+        "status": "yellow",
+        "description": "Jan 29"
+    },
     "Cason Wallace": {
         "status": "yellow",
         "description": "Jan 29"
     },
     "Alex Caruso": {
         "status": "yellow",
-        "description": "Jan 29"
-    },
-    "Isaiah Hartenstein": {
-        "status": "yellow",
-        "description": "Jan 29"
-    },
-    "Ajay Mitchell": {
-        "status": "yellow",
-        "description": "Jan 29"
+        "description": "Feb 1"
     },
     "Jalen Williams": {
         "status": "yellow",
@@ -333,15 +305,15 @@
     },
     "Paul George": {
         "status": "yellow",
-        "description": "Jan 27"
+        "description": "Jan 29"
     },
     "Joel Embiid": {
         "status": "yellow",
-        "description": "Jan 27"
+        "description": "Jan 29"
     },
     "MarJon Beauchamp": {
         "status": "yellow",
-        "description": "Jan 30"
+        "description": "Jan 31"
     },
     "Isaiah Livers": {
         "status": "yellow",
@@ -387,11 +359,11 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Malik Monk": {
+    "Russell Westbrook": {
         "status": "yellow",
         "description": "Jan 29"
     },
-    "Zach LaVine": {
+    "Malik Monk": {
         "status": "yellow",
         "description": "Jan 29"
     },
@@ -403,14 +375,6 @@
         "status": "yellow",
         "description": "Jan 28"
     },
-    "David Jones Garcia": {
-        "status": "yellow",
-        "description": "Jan 28"
-    },
-    "Collin Murray-Boyles": {
-        "status": "yellow",
-        "description": "Jan 28"
-    },
     "Jakob Poeltl": {
         "status": "yellow",
         "description": "Feb 8"
@@ -418,6 +382,14 @@
     "Chucky Hepburn": {
         "status": "yellow",
         "description": "Feb 19"
+    },
+    "Cody Williams": {
+        "status": "yellow",
+        "description": "Jan 30"
+    },
+    "Kevin Love": {
+        "status": "yellow",
+        "description": "Jan 30"
     },
     "Jusuf Nurkic": {
         "status": "yellow",
@@ -427,13 +399,9 @@
         "status": "yellow",
         "description": "Feb 1"
     },
-    "Keyonte George": {
-        "status": "yellow",
-        "description": "Jan 28"
-    },
     "Elijah Harkless": {
         "status": "yellow",
-        "description": "Jan 28"
+        "description": "Jan 30"
     },
     "Walker Kessler": {
         "status": "yellow",
@@ -441,9 +409,13 @@
     },
     "Tristan Vukcevic": {
         "status": "yellow",
-        "description": "Jan 29"
+        "description": "Jan 30"
     },
     "Marvin Bagley III": {
+        "status": "yellow",
+        "description": "Jan 30"
+    },
+    "Alex Sarr": {
         "status": "yellow",
         "description": "Jan 29"
     },
