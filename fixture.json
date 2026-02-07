@@ -1,45 +1,5 @@
 [
     {
-        "DAY_LABEL": "Viernes 6 de Febrero",
-        "TIME_ONLY": "00:00",
-        "STADIUM": "Crypto.com Arena",
-        "MATCHUP": "PHI @ LAL",
-        "HOME_TEAM": "LAL",
-        "AWAY_TEAM": "PHI"
-    },
-    {
-        "DAY_LABEL": "Viernes 6 de Febrero",
-        "TIME_ONLY": "21:29",
-        "STADIUM": "TD Garden",
-        "MATCHUP": "MIA @ BOS",
-        "HOME_TEAM": "BOS",
-        "AWAY_TEAM": "MIA"
-    },
-    {
-        "DAY_LABEL": "Viernes 6 de Febrero",
-        "TIME_ONLY": "21:29",
-        "STADIUM": "Little Caesars Arena",
-        "MATCHUP": "NYK @ DET",
-        "HOME_TEAM": "DET",
-        "AWAY_TEAM": "NYK"
-    },
-    {
-        "DAY_LABEL": "Viernes 6 de Febrero",
-        "TIME_ONLY": "22:00",
-        "STADIUM": "Fiserv Forum",
-        "MATCHUP": "IND @ MIL",
-        "HOME_TEAM": "MIL",
-        "AWAY_TEAM": "IND"
-    },
-    {
-        "DAY_LABEL": "Viernes 6 de Febrero",
-        "TIME_ONLY": "22:00",
-        "STADIUM": "Target Center",
-        "MATCHUP": "NOP @ MIN",
-        "HOME_TEAM": "MIN",
-        "AWAY_TEAM": "NOP"
-    },
-    {
         "DAY_LABEL": "Sábado 7 de Febrero",
         "TIME_ONLY": "00:00",
         "STADIUM": "Moda Center",
@@ -306,22 +266,6 @@
     {
         "DAY_LABEL": "Miércoles 11 de Febrero",
         "TIME_ONLY": "21:29",
-        "STADIUM": "Xfinity Mobile Arena",
-        "MATCHUP": "NYK @ PHI",
-        "HOME_TEAM": "PHI",
-        "AWAY_TEAM": "NYK"
-    },
-    {
-        "DAY_LABEL": "Miércoles 11 de Febrero",
-        "TIME_ONLY": "21:29",
-        "STADIUM": "Scotiabank Arena",
-        "MATCHUP": "DET @ TOR",
-        "HOME_TEAM": "TOR",
-        "AWAY_TEAM": "DET"
-    },
-    {
-        "DAY_LABEL": "Miércoles 11 de Febrero",
-        "TIME_ONLY": "21:29",
         "STADIUM": "TD Garden",
         "MATCHUP": "CHI @ BOS",
         "HOME_TEAM": "BOS",
@@ -334,6 +278,22 @@
         "MATCHUP": "IND @ BKN",
         "HOME_TEAM": "BKN",
         "AWAY_TEAM": "IND"
+    },
+    {
+        "DAY_LABEL": "Miércoles 11 de Febrero",
+        "TIME_ONLY": "21:29",
+        "STADIUM": "Xfinity Mobile Arena",
+        "MATCHUP": "NYK @ PHI",
+        "HOME_TEAM": "PHI",
+        "AWAY_TEAM": "NYK"
+    },
+    {
+        "DAY_LABEL": "Miércoles 11 de Febrero",
+        "TIME_ONLY": "21:29",
+        "STADIUM": "Scotiabank Arena",
+        "MATCHUP": "DET @ TOR",
+        "HOME_TEAM": "TOR",
+        "AWAY_TEAM": "DET"
     },
     {
         "DAY_LABEL": "Miércoles 11 de Febrero",
@@ -362,18 +322,18 @@
     {
         "DAY_LABEL": "Miércoles 11 de Febrero",
         "TIME_ONLY": "22:59",
-        "STADIUM": "Mortgage Matchup Center",
-        "MATCHUP": "OKC @ PHX",
-        "HOME_TEAM": "PHX",
-        "AWAY_TEAM": "OKC"
-    },
-    {
-        "DAY_LABEL": "Miércoles 11 de Febrero",
-        "TIME_ONLY": "22:59",
         "STADIUM": "Delta Center",
         "MATCHUP": "SAC @ UTA",
         "HOME_TEAM": "UTA",
         "AWAY_TEAM": "SAC"
+    },
+    {
+        "DAY_LABEL": "Miércoles 11 de Febrero",
+        "TIME_ONLY": "22:59",
+        "STADIUM": "Mortgage Matchup Center",
+        "MATCHUP": "OKC @ PHX",
+        "HOME_TEAM": "PHX",
+        "AWAY_TEAM": "OKC"
     },
     {
         "DAY_LABEL": "Jueves 12 de Febrero",
@@ -418,14 +378,6 @@
     {
         "DAY_LABEL": "Jueves 19 de Febrero",
         "TIME_ONLY": "21:00",
-        "STADIUM": "Xfinity Mobile Arena",
-        "MATCHUP": "ATL @ PHI",
-        "HOME_TEAM": "PHI",
-        "AWAY_TEAM": "ATL"
-    },
-    {
-        "DAY_LABEL": "Jueves 19 de Febrero",
-        "TIME_ONLY": "21:00",
         "STADIUM": "Spectrum Center",
         "MATCHUP": "HOU @ CHA",
         "HOME_TEAM": "CHA",
@@ -438,6 +390,14 @@
         "MATCHUP": "BKN @ CLE",
         "HOME_TEAM": "CLE",
         "AWAY_TEAM": "BKN"
+    },
+    {
+        "DAY_LABEL": "Jueves 19 de Febrero",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Xfinity Mobile Arena",
+        "MATCHUP": "ATL @ PHI",
+        "HOME_TEAM": "PHI",
+        "AWAY_TEAM": "ATL"
     },
     {
         "DAY_LABEL": "Jueves 19 de Febrero",
@@ -478,5 +438,45 @@
         "MATCHUP": "BOS @ GSW",
         "HOME_TEAM": "GSW",
         "AWAY_TEAM": "BOS"
+    },
+    {
+        "DAY_LABEL": "Viernes 20 de Febrero",
+        "TIME_ONLY": "00:00",
+        "STADIUM": "Golden 1 Center",
+        "MATCHUP": "ORL @ SAC",
+        "HOME_TEAM": "SAC",
+        "AWAY_TEAM": "ORL"
+    },
+    {
+        "DAY_LABEL": "Viernes 20 de Febrero",
+        "TIME_ONLY": "00:29",
+        "STADIUM": "Intuit Dome",
+        "MATCHUP": "DEN @ LAC",
+        "HOME_TEAM": "LAC",
+        "AWAY_TEAM": "DEN"
+    },
+    {
+        "DAY_LABEL": "Viernes 20 de Febrero",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Spectrum Center",
+        "MATCHUP": "CLE @ CHA",
+        "HOME_TEAM": "CHA",
+        "AWAY_TEAM": "CLE"
+    },
+    {
+        "DAY_LABEL": "Viernes 20 de Febrero",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Capital One Arena",
+        "MATCHUP": "IND @ WAS",
+        "HOME_TEAM": "WAS",
+        "AWAY_TEAM": "IND"
+    },
+    {
+        "DAY_LABEL": "Viernes 20 de Febrero",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "FedExForum",
+        "MATCHUP": "UTA @ MEM",
+        "HOME_TEAM": "MEM",
+        "AWAY_TEAM": "UTA"
     }
 ]
