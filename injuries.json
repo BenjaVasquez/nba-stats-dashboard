@@ -63,13 +63,17 @@
         "status": "yellow",
         "description": "Feb 19"
     },
-    "Caleb Martin": {
+    "Daniel Gafford": {
         "status": "yellow",
-        "description": "Feb 12"
+        "description": "Feb 20"
     },
     "Naji Marshall": {
         "status": "yellow",
-        "description": "Feb 12"
+        "description": "Feb 20"
+    },
+    "Caleb Martin": {
+        "status": "yellow",
+        "description": "Feb 20"
     },
     "Cooper Flagg": {
         "status": "yellow",
@@ -153,7 +157,7 @@
     },
     "Pascal Siakam": {
         "status": "yellow",
-        "description": "Feb 19"
+        "description": "Feb 15"
     },
     "Aaron Nesmith": {
         "status": "yellow",
@@ -187,15 +191,19 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Deandre Ayton": {
-        "status": "yellow",
-        "description": "Feb 20"
-    },
     "Luka Doncic": {
         "status": "yellow",
         "description": "Feb 15"
     },
+    "Deandre Ayton": {
+        "status": "yellow",
+        "description": "Feb 20"
+    },
     "Cedric Coward": {
+        "status": "yellow",
+        "description": "Feb 20"
+    },
+    "Ja Morant": {
         "status": "yellow",
         "description": "Feb 20"
     },
@@ -204,10 +212,6 @@
         "description": "Feb 20"
     },
     "Santi Aldama": {
-        "status": "yellow",
-        "description": "Feb 20"
-    },
-    "Ja Morant": {
         "status": "yellow",
         "description": "Feb 20"
     },
@@ -233,7 +237,7 @@
     },
     "Norman Powell": {
         "status": "yellow",
-        "description": "Feb 20"
+        "description": "Feb 15"
     },
     "Terry Rozier": {
         "status": "yellow",
@@ -253,7 +257,7 @@
     },
     "Taurean Prince": {
         "status": "yellow",
-        "description": "Feb 20"
+        "description": "Mar 2"
     },
     "Terrence Shannon Jr.": {
         "status": "yellow",
@@ -329,7 +333,7 @@
     },
     "Devin Booker": {
         "status": "yellow",
-        "description": "Feb 19"
+        "description": "Feb 15"
     },
     "Cole Anthony": {
         "status": "yellow",
@@ -343,6 +347,14 @@
         "status": "yellow",
         "description": "Feb 19"
     },
+    "Robert Williams III": {
+        "status": "yellow",
+        "description": "Feb 20"
+    },
+    "Deni Avdija": {
+        "status": "yellow",
+        "description": "Feb 15"
+    },
     "Damian Lillard": {
         "status": "yellow",
         "description": "Oct 1"
@@ -350,14 +362,6 @@
     "Kris Murray": {
         "status": "yellow",
         "description": "Feb 20"
-    },
-    "Deni Avdija": {
-        "status": "yellow",
-        "description": "Feb 12"
-    },
-    "Robert Williams III": {
-        "status": "yellow",
-        "description": "Feb 12"
     },
     "Shaedon Sharpe": {
         "status": "yellow",
@@ -367,11 +371,11 @@
         "status": "yellow",
         "description": "Feb 20"
     },
-    "Russell Westbrook": {
-        "status": "yellow",
-        "description": "Feb 19"
-    },
     "Zach LaVine": {
+        "status": "yellow",
+        "description": "Oct 1"
+    },
+    "Russell Westbrook": {
         "status": "yellow",
         "description": "Feb 19"
     },
@@ -401,11 +405,15 @@
     },
     "Collin Murray-Boyles": {
         "status": "yellow",
-        "description": "Feb 19"
+        "description": "Feb 13"
     },
     "Chucky Hepburn": {
         "status": "yellow",
         "description": "Feb 19"
+    },
+    "Oscar Tshiebwe": {
+        "status": "yellow",
+        "description": "Feb 20"
     },
     "Lauri Markkanen": {
         "status": "yellow",

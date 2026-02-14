@@ -1,13 +1,5 @@
 [
     {
-        "DAY_LABEL": "Viernes 13 de Febrero",
-        "TIME_ONLY": "00:00",
-        "STADIUM": "Crypto.com Arena",
-        "MATCHUP": "DAL @ LAL",
-        "HOME_TEAM": "LAL",
-        "AWAY_TEAM": "DAL"
-    },
-    {
         "DAY_LABEL": "Jueves 19 de Febrero",
         "TIME_ONLY": "21:00",
         "STADIUM": "Spectrum Center",
@@ -98,18 +90,18 @@
     {
         "DAY_LABEL": "Viernes 20 de Febrero",
         "TIME_ONLY": "21:00",
-        "STADIUM": "Spectrum Center",
-        "MATCHUP": "CLE @ CHA",
-        "HOME_TEAM": "CHA",
-        "AWAY_TEAM": "CLE"
-    },
-    {
-        "DAY_LABEL": "Viernes 20 de Febrero",
-        "TIME_ONLY": "21:00",
         "STADIUM": "Capital One Arena",
         "MATCHUP": "IND @ WAS",
         "HOME_TEAM": "WAS",
         "AWAY_TEAM": "IND"
+    },
+    {
+        "DAY_LABEL": "Viernes 20 de Febrero",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Spectrum Center",
+        "MATCHUP": "CLE @ CHA",
+        "HOME_TEAM": "CHA",
+        "AWAY_TEAM": "CLE"
     },
     {
         "DAY_LABEL": "Viernes 20 de Febrero",
@@ -178,6 +170,14 @@
     {
         "DAY_LABEL": "Sábado 21 de Febrero",
         "TIME_ONLY": "22:00",
+        "STADIUM": "Kaseya Center",
+        "MATCHUP": "MEM @ MIA",
+        "HOME_TEAM": "MIA",
+        "AWAY_TEAM": "MEM"
+    },
+    {
+        "DAY_LABEL": "Sábado 21 de Febrero",
+        "TIME_ONLY": "22:00",
         "STADIUM": "United Center",
         "MATCHUP": "DET @ CHI",
         "HOME_TEAM": "CHI",
@@ -190,14 +190,6 @@
         "MATCHUP": "SAC @ SAS",
         "HOME_TEAM": "SAS",
         "AWAY_TEAM": "SAC"
-    },
-    {
-        "DAY_LABEL": "Sábado 21 de Febrero",
-        "TIME_ONLY": "22:00",
-        "STADIUM": "Kaseya Center",
-        "MATCHUP": "MEM @ MIA",
-        "HOME_TEAM": "MIA",
-        "AWAY_TEAM": "MEM"
     },
     {
         "DAY_LABEL": "Sábado 21 de Febrero",
@@ -274,18 +266,18 @@
     {
         "DAY_LABEL": "Domingo 22 de Febrero",
         "TIME_ONLY": "22:00",
-        "STADIUM": "Mortgage Matchup Center",
-        "MATCHUP": "POR @ PHX",
-        "HOME_TEAM": "PHX",
-        "AWAY_TEAM": "POR"
-    },
-    {
-        "DAY_LABEL": "Domingo 22 de Febrero",
-        "TIME_ONLY": "22:00",
         "STADIUM": "United Center",
         "MATCHUP": "NYK @ CHI",
         "HOME_TEAM": "CHI",
         "AWAY_TEAM": "NYK"
+    },
+    {
+        "DAY_LABEL": "Domingo 22 de Febrero",
+        "TIME_ONLY": "22:00",
+        "STADIUM": "Mortgage Matchup Center",
+        "MATCHUP": "POR @ PHX",
+        "HOME_TEAM": "PHX",
+        "AWAY_TEAM": "POR"
     },
     {
         "DAY_LABEL": "Domingo 22 de Febrero",
@@ -478,5 +470,13 @@
         "MATCHUP": "WAS @ ATL",
         "HOME_TEAM": "ATL",
         "AWAY_TEAM": "WAS"
+    },
+    {
+        "DAY_LABEL": "Jueves 26 de Febrero",
+        "TIME_ONLY": "21:29",
+        "STADIUM": "Barclays Center",
+        "MATCHUP": "SAS @ BKN",
+        "HOME_TEAM": "BKN",
+        "AWAY_TEAM": "SAS"
     }
 ]
