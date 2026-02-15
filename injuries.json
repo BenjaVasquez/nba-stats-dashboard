@@ -191,10 +191,6 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Luka Doncic": {
-        "status": "yellow",
-        "description": "Feb 15"
-    },
     "Deandre Ayton": {
         "status": "yellow",
         "description": "Feb 20"
@@ -347,6 +343,10 @@
         "status": "yellow",
         "description": "Feb 19"
     },
+    "Damian Lillard": {
+        "status": "yellow",
+        "description": "Oct 1"
+    },
     "Robert Williams III": {
         "status": "yellow",
         "description": "Feb 20"
@@ -354,10 +354,6 @@
     "Deni Avdija": {
         "status": "yellow",
         "description": "Feb 15"
-    },
-    "Damian Lillard": {
-        "status": "yellow",
-        "description": "Oct 1"
     },
     "Kris Murray": {
         "status": "yellow",
@@ -403,19 +399,11 @@
         "status": "yellow",
         "description": "Jul 2"
     },
-    "Collin Murray-Boyles": {
-        "status": "yellow",
-        "description": "Feb 13"
-    },
     "Chucky Hepburn": {
         "status": "yellow",
         "description": "Feb 19"
     },
     "Oscar Tshiebwe": {
-        "status": "yellow",
-        "description": "Feb 20"
-    },
-    "Lauri Markkanen": {
         "status": "yellow",
         "description": "Feb 20"
     },
