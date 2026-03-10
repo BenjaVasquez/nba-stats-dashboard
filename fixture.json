@@ -1,45 +1,5 @@
 [
     {
-        "DAY_LABEL": "Lunes 9 de Marzo",
-        "TIME_ONLY": "19:59",
-        "STADIUM": "Rocket Arena",
-        "MATCHUP": "PHI @ CLE",
-        "HOME_TEAM": "CLE",
-        "AWAY_TEAM": "PHI"
-    },
-    {
-        "DAY_LABEL": "Lunes 9 de Marzo",
-        "TIME_ONLY": "20:30",
-        "STADIUM": "Barclays Center",
-        "MATCHUP": "MEM @ BKN",
-        "HOME_TEAM": "BKN",
-        "AWAY_TEAM": "MEM"
-    },
-    {
-        "DAY_LABEL": "Lunes 9 de Marzo",
-        "TIME_ONLY": "20:30",
-        "STADIUM": "Paycom Center",
-        "MATCHUP": "DEN @ OKC",
-        "HOME_TEAM": "OKC",
-        "AWAY_TEAM": "DEN"
-    },
-    {
-        "DAY_LABEL": "Lunes 9 de Marzo",
-        "TIME_ONLY": "22:00",
-        "STADIUM": "Delta Center",
-        "MATCHUP": "GSW @ UTA",
-        "HOME_TEAM": "UTA",
-        "AWAY_TEAM": "GSW"
-    },
-    {
-        "DAY_LABEL": "Lunes 9 de Marzo",
-        "TIME_ONLY": "22:59",
-        "STADIUM": "Intuit Dome",
-        "MATCHUP": "NYK @ LAC",
-        "HOME_TEAM": "LAC",
-        "AWAY_TEAM": "NYK"
-    },
-    {
         "DAY_LABEL": "Martes 10 de Marzo",
         "TIME_ONLY": "19:59",
         "STADIUM": "Xfinity Mobile Arena",
@@ -154,18 +114,18 @@
     {
         "DAY_LABEL": "Miércoles 11 de Marzo",
         "TIME_ONLY": "22:59",
-        "STADIUM": "Ball Arena",
-        "MATCHUP": "HOU @ DEN",
-        "HOME_TEAM": "DEN",
-        "AWAY_TEAM": "HOU"
-    },
-    {
-        "DAY_LABEL": "Miércoles 11 de Marzo",
-        "TIME_ONLY": "22:59",
         "STADIUM": "Golden 1 Center",
         "MATCHUP": "CHA @ SAC",
         "HOME_TEAM": "SAC",
         "AWAY_TEAM": "CHA"
+    },
+    {
+        "DAY_LABEL": "Miércoles 11 de Marzo",
+        "TIME_ONLY": "22:59",
+        "STADIUM": "Ball Arena",
+        "MATCHUP": "HOU @ DEN",
+        "HOME_TEAM": "DEN",
+        "AWAY_TEAM": "HOU"
     },
     {
         "DAY_LABEL": "Miércoles 11 de Marzo",
@@ -242,6 +202,14 @@
     {
         "DAY_LABEL": "Viernes 13 de Marzo",
         "TIME_ONLY": "20:30",
+        "STADIUM": "Little Caesars Arena",
+        "MATCHUP": "MEM @ DET",
+        "HOME_TEAM": "DET",
+        "AWAY_TEAM": "MEM"
+    },
+    {
+        "DAY_LABEL": "Viernes 13 de Marzo",
+        "TIME_ONLY": "20:30",
         "STADIUM": "Gainbridge Fieldhouse",
         "MATCHUP": "NYK @ IND",
         "HOME_TEAM": "IND",
@@ -254,14 +222,6 @@
         "MATCHUP": "PHX @ TOR",
         "HOME_TEAM": "TOR",
         "AWAY_TEAM": "PHX"
-    },
-    {
-        "DAY_LABEL": "Viernes 13 de Marzo",
-        "TIME_ONLY": "20:30",
-        "STADIUM": "Little Caesars Arena",
-        "MATCHUP": "MEM @ DET",
-        "HOME_TEAM": "DET",
-        "AWAY_TEAM": "MEM"
     },
     {
         "DAY_LABEL": "Viernes 13 de Marzo",
@@ -282,18 +242,18 @@
     {
         "DAY_LABEL": "Viernes 13 de Marzo",
         "TIME_ONLY": "22:59",
-        "STADIUM": "Chase Center",
-        "MATCHUP": "MIN @ GSW",
-        "HOME_TEAM": "GSW",
-        "AWAY_TEAM": "MIN"
-    },
-    {
-        "DAY_LABEL": "Viernes 13 de Marzo",
-        "TIME_ONLY": "22:59",
         "STADIUM": "Moda Center",
         "MATCHUP": "UTA @ POR",
         "HOME_TEAM": "POR",
         "AWAY_TEAM": "UTA"
+    },
+    {
+        "DAY_LABEL": "Viernes 13 de Marzo",
+        "TIME_ONLY": "22:59",
+        "STADIUM": "Chase Center",
+        "MATCHUP": "MIN @ GSW",
+        "HOME_TEAM": "GSW",
+        "AWAY_TEAM": "MIN"
     },
     {
         "DAY_LABEL": "Viernes 13 de Marzo",
@@ -370,10 +330,10 @@
     {
         "DAY_LABEL": "Domingo 15 de Marzo",
         "TIME_ONLY": "16:30",
-        "STADIUM": "Fiserv Forum",
-        "MATCHUP": "IND @ MIL",
-        "HOME_TEAM": "MIL",
-        "AWAY_TEAM": "IND"
+        "STADIUM": "Rocket Arena",
+        "MATCHUP": "DAL @ CLE",
+        "HOME_TEAM": "CLE",
+        "AWAY_TEAM": "DAL"
     },
     {
         "DAY_LABEL": "Domingo 15 de Marzo",
@@ -386,10 +346,10 @@
     {
         "DAY_LABEL": "Domingo 15 de Marzo",
         "TIME_ONLY": "16:30",
-        "STADIUM": "Rocket Arena",
-        "MATCHUP": "DAL @ CLE",
-        "HOME_TEAM": "CLE",
-        "AWAY_TEAM": "DAL"
+        "STADIUM": "Fiserv Forum",
+        "MATCHUP": "IND @ MIL",
+        "HOME_TEAM": "MIL",
+        "AWAY_TEAM": "IND"
     },
     {
         "DAY_LABEL": "Domingo 15 de Marzo",
@@ -418,18 +378,18 @@
     {
         "DAY_LABEL": "Lunes 16 de Marzo",
         "TIME_ONLY": "19:59",
-        "STADIUM": "State Farm Arena",
-        "MATCHUP": "ORL @ ATL",
-        "HOME_TEAM": "ATL",
-        "AWAY_TEAM": "ORL"
-    },
-    {
-        "DAY_LABEL": "Lunes 16 de Marzo",
-        "TIME_ONLY": "19:59",
         "STADIUM": "Capital One Arena",
         "MATCHUP": "GSW @ WAS",
         "HOME_TEAM": "WAS",
         "AWAY_TEAM": "GSW"
+    },
+    {
+        "DAY_LABEL": "Lunes 16 de Marzo",
+        "TIME_ONLY": "19:59",
+        "STADIUM": "State Farm Arena",
+        "MATCHUP": "ORL @ ATL",
+        "HOME_TEAM": "ATL",
+        "AWAY_TEAM": "ORL"
     },
     {
         "DAY_LABEL": "Lunes 16 de Marzo",
@@ -478,5 +438,45 @@
         "MATCHUP": "SAS @ LAC",
         "HOME_TEAM": "LAC",
         "AWAY_TEAM": "SAS"
+    },
+    {
+        "DAY_LABEL": "Martes 17 de Marzo",
+        "TIME_ONLY": "19:59",
+        "STADIUM": "Spectrum Center",
+        "MATCHUP": "MIA @ CHA",
+        "HOME_TEAM": "CHA",
+        "AWAY_TEAM": "MIA"
+    },
+    {
+        "DAY_LABEL": "Martes 17 de Marzo",
+        "TIME_ONLY": "19:59",
+        "STADIUM": "Kia Center",
+        "MATCHUP": "OKC @ ORL",
+        "HOME_TEAM": "ORL",
+        "AWAY_TEAM": "OKC"
+    },
+    {
+        "DAY_LABEL": "Martes 17 de Marzo",
+        "TIME_ONLY": "19:59",
+        "STADIUM": "Capital One Arena",
+        "MATCHUP": "DET @ WAS",
+        "HOME_TEAM": "WAS",
+        "AWAY_TEAM": "DET"
+    },
+    {
+        "DAY_LABEL": "Martes 17 de Marzo",
+        "TIME_ONLY": "20:30",
+        "STADIUM": "Madison Square Garden",
+        "MATCHUP": "IND @ NYK",
+        "HOME_TEAM": "NYK",
+        "AWAY_TEAM": "IND"
+    },
+    {
+        "DAY_LABEL": "Martes 17 de Marzo",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Fiserv Forum",
+        "MATCHUP": "CLE @ MIL",
+        "HOME_TEAM": "MIL",
+        "AWAY_TEAM": "CLE"
     }
 ]
