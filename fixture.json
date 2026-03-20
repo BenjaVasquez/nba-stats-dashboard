@@ -1,69 +1,5 @@
 [
     {
-        "DAY_LABEL": "Jueves 19 de Marzo",
-        "TIME_ONLY": "19:59",
-        "STADIUM": "Spectrum Center",
-        "MATCHUP": "ORL @ CHA",
-        "HOME_TEAM": "CHA",
-        "AWAY_TEAM": "ORL"
-    },
-    {
-        "DAY_LABEL": "Jueves 19 de Marzo",
-        "TIME_ONLY": "19:59",
-        "STADIUM": "Capital One Arena",
-        "MATCHUP": "DET @ WAS",
-        "HOME_TEAM": "WAS",
-        "AWAY_TEAM": "DET"
-    },
-    {
-        "DAY_LABEL": "Jueves 19 de Marzo",
-        "TIME_ONLY": "21:00",
-        "STADIUM": "Kaseya Center",
-        "MATCHUP": "LAL @ MIA",
-        "HOME_TEAM": "MIA",
-        "AWAY_TEAM": "LAL"
-    },
-    {
-        "DAY_LABEL": "Jueves 19 de Marzo",
-        "TIME_ONLY": "21:00",
-        "STADIUM": "United Center",
-        "MATCHUP": "CLE @ CHI",
-        "HOME_TEAM": "CHI",
-        "AWAY_TEAM": "CLE"
-    },
-    {
-        "DAY_LABEL": "Jueves 19 de Marzo",
-        "TIME_ONLY": "21:00",
-        "STADIUM": "Smoothie King Center",
-        "MATCHUP": "LAC @ NOP",
-        "HOME_TEAM": "NOP",
-        "AWAY_TEAM": "LAC"
-    },
-    {
-        "DAY_LABEL": "Jueves 19 de Marzo",
-        "TIME_ONLY": "21:00",
-        "STADIUM": "Frost Bank Center",
-        "MATCHUP": "PHX @ SAS",
-        "HOME_TEAM": "SAS",
-        "AWAY_TEAM": "PHX"
-    },
-    {
-        "DAY_LABEL": "Jueves 19 de Marzo",
-        "TIME_ONLY": "22:00",
-        "STADIUM": "Delta Center",
-        "MATCHUP": "MIL @ UTA",
-        "HOME_TEAM": "UTA",
-        "AWAY_TEAM": "MIL"
-    },
-    {
-        "DAY_LABEL": "Jueves 19 de Marzo",
-        "TIME_ONLY": "22:59",
-        "STADIUM": "Golden 1 Center",
-        "MATCHUP": "PHI @ SAC",
-        "HOME_TEAM": "SAC",
-        "AWAY_TEAM": "PHI"
-    },
-    {
         "DAY_LABEL": "Viernes 20 de Marzo",
         "TIME_ONLY": "20:30",
         "STADIUM": "Barclays Center",
@@ -82,14 +18,6 @@
     {
         "DAY_LABEL": "Viernes 20 de Marzo",
         "TIME_ONLY": "21:00",
-        "STADIUM": "Target Center",
-        "MATCHUP": "POR @ MIN",
-        "HOME_TEAM": "MIN",
-        "AWAY_TEAM": "POR"
-    },
-    {
-        "DAY_LABEL": "Viernes 20 de Marzo",
-        "TIME_ONLY": "21:00",
         "STADIUM": "Toyota Center",
         "MATCHUP": "ATL @ HOU",
         "HOME_TEAM": "HOU",
@@ -102,6 +30,14 @@
         "MATCHUP": "BOS @ MEM",
         "HOME_TEAM": "MEM",
         "AWAY_TEAM": "BOS"
+    },
+    {
+        "DAY_LABEL": "Viernes 20 de Marzo",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Target Center",
+        "MATCHUP": "POR @ MIN",
+        "HOME_TEAM": "MIN",
+        "AWAY_TEAM": "POR"
     },
     {
         "DAY_LABEL": "Viernes 20 de Marzo",
@@ -154,18 +90,18 @@
     {
         "DAY_LABEL": "Sábado 21 de Marzo",
         "TIME_ONLY": "21:00",
-        "STADIUM": "State Farm Arena",
-        "MATCHUP": "GSW @ ATL",
-        "HOME_TEAM": "ATL",
-        "AWAY_TEAM": "GSW"
-    },
-    {
-        "DAY_LABEL": "Sábado 21 de Marzo",
-        "TIME_ONLY": "21:00",
         "STADIUM": "Toyota Center",
         "MATCHUP": "MIA @ HOU",
         "HOME_TEAM": "HOU",
         "AWAY_TEAM": "MIA"
+    },
+    {
+        "DAY_LABEL": "Sábado 21 de Marzo",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "State Farm Arena",
+        "MATCHUP": "GSW @ ATL",
+        "HOME_TEAM": "ATL",
+        "AWAY_TEAM": "GSW"
     },
     {
         "DAY_LABEL": "Sábado 21 de Marzo",
@@ -234,18 +170,10 @@
     {
         "DAY_LABEL": "Lunes 23 de Marzo",
         "TIME_ONLY": "19:59",
-        "STADIUM": "State Farm Arena",
-        "MATCHUP": "MEM @ ATL",
-        "HOME_TEAM": "ATL",
-        "AWAY_TEAM": "MEM"
-    },
-    {
-        "DAY_LABEL": "Lunes 23 de Marzo",
-        "TIME_ONLY": "19:59",
-        "STADIUM": "Little Caesars Arena",
-        "MATCHUP": "LAL @ DET",
-        "HOME_TEAM": "DET",
-        "AWAY_TEAM": "LAL"
+        "STADIUM": "Xfinity Mobile Arena",
+        "MATCHUP": "OKC @ PHI",
+        "HOME_TEAM": "PHI",
+        "AWAY_TEAM": "OKC"
     },
     {
         "DAY_LABEL": "Lunes 23 de Marzo",
@@ -258,10 +186,18 @@
     {
         "DAY_LABEL": "Lunes 23 de Marzo",
         "TIME_ONLY": "19:59",
-        "STADIUM": "Xfinity Mobile Arena",
-        "MATCHUP": "OKC @ PHI",
-        "HOME_TEAM": "PHI",
-        "AWAY_TEAM": "OKC"
+        "STADIUM": "Little Caesars Arena",
+        "MATCHUP": "LAL @ DET",
+        "HOME_TEAM": "DET",
+        "AWAY_TEAM": "LAL"
+    },
+    {
+        "DAY_LABEL": "Lunes 23 de Marzo",
+        "TIME_ONLY": "19:59",
+        "STADIUM": "State Farm Arena",
+        "MATCHUP": "MEM @ ATL",
+        "HOME_TEAM": "ATL",
+        "AWAY_TEAM": "MEM"
     },
     {
         "DAY_LABEL": "Lunes 23 de Marzo",
@@ -370,18 +306,18 @@
     {
         "DAY_LABEL": "Miércoles 25 de Marzo",
         "TIME_ONLY": "20:30",
-        "STADIUM": "Rocket Arena",
-        "MATCHUP": "MIA @ CLE",
-        "HOME_TEAM": "CLE",
-        "AWAY_TEAM": "MIA"
-    },
-    {
-        "DAY_LABEL": "Miércoles 25 de Marzo",
-        "TIME_ONLY": "20:30",
         "STADIUM": "TD Garden",
         "MATCHUP": "OKC @ BOS",
         "HOME_TEAM": "BOS",
         "AWAY_TEAM": "OKC"
+    },
+    {
+        "DAY_LABEL": "Miércoles 25 de Marzo",
+        "TIME_ONLY": "20:30",
+        "STADIUM": "Rocket Arena",
+        "MATCHUP": "MIA @ CLE",
+        "HOME_TEAM": "CLE",
+        "AWAY_TEAM": "MIA"
     },
     {
         "DAY_LABEL": "Miércoles 25 de Marzo",
@@ -474,9 +410,73 @@
     {
         "DAY_LABEL": "Viernes 27 de Marzo",
         "TIME_ONLY": "20:30",
+        "STADIUM": "TD Garden",
+        "MATCHUP": "ATL @ BOS",
+        "HOME_TEAM": "BOS",
+        "AWAY_TEAM": "ATL"
+    },
+    {
+        "DAY_LABEL": "Viernes 27 de Marzo",
+        "TIME_ONLY": "20:30",
         "STADIUM": "Rocket Arena",
         "MATCHUP": "MIA @ CLE",
         "HOME_TEAM": "CLE",
         "AWAY_TEAM": "MIA"
+    },
+    {
+        "DAY_LABEL": "Viernes 27 de Marzo",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "FedExForum",
+        "MATCHUP": "HOU @ MEM",
+        "HOME_TEAM": "MEM",
+        "AWAY_TEAM": "HOU"
+    },
+    {
+        "DAY_LABEL": "Viernes 27 de Marzo",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Paycom Center",
+        "MATCHUP": "CHI @ OKC",
+        "HOME_TEAM": "OKC",
+        "AWAY_TEAM": "CHI"
+    },
+    {
+        "DAY_LABEL": "Viernes 27 de Marzo",
+        "TIME_ONLY": "21:29",
+        "STADIUM": "Scotiabank Arena",
+        "MATCHUP": "NOP @ TOR",
+        "HOME_TEAM": "TOR",
+        "AWAY_TEAM": "NOP"
+    },
+    {
+        "DAY_LABEL": "Viernes 27 de Marzo",
+        "TIME_ONLY": "22:00",
+        "STADIUM": "Ball Arena",
+        "MATCHUP": "UTA @ DEN",
+        "HOME_TEAM": "DEN",
+        "AWAY_TEAM": "UTA"
+    },
+    {
+        "DAY_LABEL": "Viernes 27 de Marzo",
+        "TIME_ONLY": "22:59",
+        "STADIUM": "Moda Center",
+        "MATCHUP": "DAL @ POR",
+        "HOME_TEAM": "POR",
+        "AWAY_TEAM": "DAL"
+    },
+    {
+        "DAY_LABEL": "Viernes 27 de Marzo",
+        "TIME_ONLY": "22:59",
+        "STADIUM": "Chase Center",
+        "MATCHUP": "WAS @ GSW",
+        "HOME_TEAM": "GSW",
+        "AWAY_TEAM": "WAS"
+    },
+    {
+        "DAY_LABEL": "Viernes 27 de Marzo",
+        "TIME_ONLY": "23:30",
+        "STADIUM": "Crypto.com Arena",
+        "MATCHUP": "BKN @ LAL",
+        "HOME_TEAM": "LAL",
+        "AWAY_TEAM": "BKN"
     }
 ]
