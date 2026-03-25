@@ -1,29 +1,5 @@
 [
     {
-        "DAY_LABEL": "Martes 24 de Marzo",
-        "TIME_ONLY": "19:59",
-        "STADIUM": "Spectrum Center",
-        "MATCHUP": "SAC @ CHA",
-        "HOME_TEAM": "CHA",
-        "AWAY_TEAM": "SAC"
-    },
-    {
-        "DAY_LABEL": "Martes 24 de Marzo",
-        "TIME_ONLY": "20:30",
-        "STADIUM": "Madison Square Garden",
-        "MATCHUP": "NOP @ NYK",
-        "HOME_TEAM": "NYK",
-        "AWAY_TEAM": "NOP"
-    },
-    {
-        "DAY_LABEL": "Martes 24 de Marzo",
-        "TIME_ONLY": "21:00",
-        "STADIUM": "Rocket Arena",
-        "MATCHUP": "ORL @ CLE",
-        "HOME_TEAM": "CLE",
-        "AWAY_TEAM": "ORL"
-    },
-    {
         "DAY_LABEL": "Miércoles 25 de Marzo",
         "TIME_ONLY": "00:00",
         "STADIUM": "Mortgage Matchup Center",
@@ -162,18 +138,18 @@
     {
         "DAY_LABEL": "Viernes 27 de Marzo",
         "TIME_ONLY": "20:30",
-        "STADIUM": "TD Garden",
-        "MATCHUP": "ATL @ BOS",
-        "HOME_TEAM": "BOS",
-        "AWAY_TEAM": "ATL"
-    },
-    {
-        "DAY_LABEL": "Viernes 27 de Marzo",
-        "TIME_ONLY": "20:30",
         "STADIUM": "Rocket Arena",
         "MATCHUP": "MIA @ CLE",
         "HOME_TEAM": "CLE",
         "AWAY_TEAM": "MIA"
+    },
+    {
+        "DAY_LABEL": "Viernes 27 de Marzo",
+        "TIME_ONLY": "20:30",
+        "STADIUM": "TD Garden",
+        "MATCHUP": "ATL @ BOS",
+        "HOME_TEAM": "BOS",
+        "AWAY_TEAM": "ATL"
     },
     {
         "DAY_LABEL": "Viernes 27 de Marzo",
@@ -298,18 +274,18 @@
     {
         "DAY_LABEL": "Domingo 29 de Marzo",
         "TIME_ONLY": "19:00",
-        "STADIUM": "Moda Center",
-        "MATCHUP": "WAS @ POR",
-        "HOME_TEAM": "POR",
-        "AWAY_TEAM": "WAS"
-    },
-    {
-        "DAY_LABEL": "Domingo 29 de Marzo",
-        "TIME_ONLY": "19:00",
         "STADIUM": "Scotiabank Arena",
         "MATCHUP": "ORL @ TOR",
         "HOME_TEAM": "TOR",
         "AWAY_TEAM": "ORL"
+    },
+    {
+        "DAY_LABEL": "Domingo 29 de Marzo",
+        "TIME_ONLY": "19:00",
+        "STADIUM": "Moda Center",
+        "MATCHUP": "WAS @ POR",
+        "HOME_TEAM": "POR",
+        "AWAY_TEAM": "WAS"
     },
     {
         "DAY_LABEL": "Domingo 29 de Marzo",
@@ -478,5 +454,29 @@
         "MATCHUP": "BOS @ MIA",
         "HOME_TEAM": "MIA",
         "AWAY_TEAM": "BOS"
+    },
+    {
+        "DAY_LABEL": "Miércoles 1 de Abril",
+        "TIME_ONLY": "20:30",
+        "STADIUM": "Kia Center",
+        "MATCHUP": "ATL @ ORL",
+        "HOME_TEAM": "ORL",
+        "AWAY_TEAM": "ATL"
+    },
+    {
+        "DAY_LABEL": "Miércoles 1 de Abril",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "Scotiabank Arena",
+        "MATCHUP": "SAC @ TOR",
+        "HOME_TEAM": "TOR",
+        "AWAY_TEAM": "SAC"
+    },
+    {
+        "DAY_LABEL": "Miércoles 1 de Abril",
+        "TIME_ONLY": "21:00",
+        "STADIUM": "United Center",
+        "MATCHUP": "IND @ CHI",
+        "HOME_TEAM": "CHI",
+        "AWAY_TEAM": "IND"
     }
 ]
