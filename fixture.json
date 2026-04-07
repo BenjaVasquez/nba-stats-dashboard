@@ -1,45 +1,5 @@
 [
     {
-        "DAY_LABEL": "Lunes 6 de Abril",
-        "TIME_ONLY": "19:00",
-        "STADIUM": "State Farm Arena",
-        "MATCHUP": "NYK @ ATL",
-        "HOME_TEAM": "ATL",
-        "AWAY_TEAM": "NYK"
-    },
-    {
-        "DAY_LABEL": "Lunes 6 de Abril",
-        "TIME_ONLY": "19:00",
-        "STADIUM": "Kia Center",
-        "MATCHUP": "DET @ ORL",
-        "HOME_TEAM": "ORL",
-        "AWAY_TEAM": "DET"
-    },
-    {
-        "DAY_LABEL": "Lunes 6 de Abril",
-        "TIME_ONLY": "19:59",
-        "STADIUM": "FedExForum",
-        "MATCHUP": "CLE @ MEM",
-        "HOME_TEAM": "MEM",
-        "AWAY_TEAM": "CLE"
-    },
-    {
-        "DAY_LABEL": "Lunes 6 de Abril",
-        "TIME_ONLY": "19:59",
-        "STADIUM": "Frost Bank Center",
-        "MATCHUP": "PHI @ SAS",
-        "HOME_TEAM": "SAS",
-        "AWAY_TEAM": "PHI"
-    },
-    {
-        "DAY_LABEL": "Lunes 6 de Abril",
-        "TIME_ONLY": "21:00",
-        "STADIUM": "Ball Arena",
-        "MATCHUP": "POR @ DEN",
-        "HOME_TEAM": "DEN",
-        "AWAY_TEAM": "POR"
-    },
-    {
         "DAY_LABEL": "Martes 7 de Abril",
         "TIME_ONLY": "19:00",
         "STADIUM": "Capital One Arena",
@@ -226,14 +186,6 @@
     {
         "DAY_LABEL": "Viernes 10 de Abril",
         "TIME_ONLY": "19:00",
-        "STADIUM": "Capital One Arena",
-        "MATCHUP": "MIA @ WAS",
-        "HOME_TEAM": "WAS",
-        "AWAY_TEAM": "MIA"
-    },
-    {
-        "DAY_LABEL": "Viernes 10 de Abril",
-        "TIME_ONLY": "19:00",
         "STADIUM": "Spectrum Center",
         "MATCHUP": "DET @ CHA",
         "HOME_TEAM": "CHA",
@@ -241,19 +193,19 @@
     },
     {
         "DAY_LABEL": "Viernes 10 de Abril",
-        "TIME_ONLY": "19:30",
-        "STADIUM": "State Farm Arena",
-        "MATCHUP": "CLE @ ATL",
-        "HOME_TEAM": "ATL",
-        "AWAY_TEAM": "CLE"
+        "TIME_ONLY": "19:00",
+        "STADIUM": "Capital One Arena",
+        "MATCHUP": "MIA @ WAS",
+        "HOME_TEAM": "WAS",
+        "AWAY_TEAM": "MIA"
     },
     {
         "DAY_LABEL": "Viernes 10 de Abril",
         "TIME_ONLY": "19:30",
-        "STADIUM": "TD Garden",
-        "MATCHUP": "NOP @ BOS",
-        "HOME_TEAM": "BOS",
-        "AWAY_TEAM": "NOP"
+        "STADIUM": "Madison Square Garden",
+        "MATCHUP": "TOR @ NYK",
+        "HOME_TEAM": "NYK",
+        "AWAY_TEAM": "TOR"
     },
     {
         "DAY_LABEL": "Viernes 10 de Abril",
@@ -266,10 +218,18 @@
     {
         "DAY_LABEL": "Viernes 10 de Abril",
         "TIME_ONLY": "19:30",
-        "STADIUM": "Madison Square Garden",
-        "MATCHUP": "TOR @ NYK",
-        "HOME_TEAM": "NYK",
-        "AWAY_TEAM": "TOR"
+        "STADIUM": "TD Garden",
+        "MATCHUP": "NOP @ BOS",
+        "HOME_TEAM": "BOS",
+        "AWAY_TEAM": "NOP"
+    },
+    {
+        "DAY_LABEL": "Viernes 10 de Abril",
+        "TIME_ONLY": "19:30",
+        "STADIUM": "State Farm Arena",
+        "MATCHUP": "CLE @ ATL",
+        "HOME_TEAM": "ATL",
+        "AWAY_TEAM": "CLE"
     },
     {
         "DAY_LABEL": "Viernes 10 de Abril",
@@ -370,14 +330,6 @@
     {
         "DAY_LABEL": "Domingo 12 de Abril",
         "TIME_ONLY": "18:00",
-        "STADIUM": "TD Garden",
-        "MATCHUP": "ORL @ BOS",
-        "HOME_TEAM": "BOS",
-        "AWAY_TEAM": "ORL"
-    },
-    {
-        "DAY_LABEL": "Domingo 12 de Abril",
-        "TIME_ONLY": "18:00",
         "STADIUM": "Gainbridge Fieldhouse",
         "MATCHUP": "DET @ IND",
         "HOME_TEAM": "IND",
@@ -390,6 +342,14 @@
         "MATCHUP": "WAS @ CLE",
         "HOME_TEAM": "CLE",
         "AWAY_TEAM": "WAS"
+    },
+    {
+        "DAY_LABEL": "Domingo 12 de Abril",
+        "TIME_ONLY": "18:00",
+        "STADIUM": "TD Garden",
+        "MATCHUP": "ORL @ BOS",
+        "HOME_TEAM": "BOS",
+        "AWAY_TEAM": "ORL"
     },
     {
         "DAY_LABEL": "Domingo 12 de Abril",
