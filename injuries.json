@@ -1,125 +1,9 @@
 {
-    "Jock Landale": {
-        "status": "yellow",
-        "description": "Apr 17"
-    },
-    "Neemias Queta": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Sam Hauser": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Derrick White": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Jaylen Brown": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Josh Minott": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Nolan Traore": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Terance Mann": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Ziaire Williams": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Noah Clowney": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Nic Claxton": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Michael Porter Jr.": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Danny Wolf": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Egor Demin": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Day'Ron Sharpe": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
     "Coby White": {
         "status": "yellow",
         "description": "Apr 10"
     },
-    "PJ Hall": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Collin Sexton": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Lachlan Olbrich": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Patrick Williams": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Matas Buzelis": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Josh Giddey": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Nick Richards": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Isaac Okoro": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Anfernee Simons": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Jalen Smith": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Zach Collins": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Noa Essengue": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Jaylon Tyson": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Thomas Bryant": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "P.J. Washington": {
+    "Guerschon Yabusele": {
         "status": "yellow",
         "description": "Apr 10"
     },
@@ -127,259 +11,39 @@
         "status": "yellow",
         "description": "Apr 10"
     },
-    "Klay Thompson": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Daniel Gafford": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Caleb Martin": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
     "Naji Marshall": {
         "status": "yellow",
         "description": "Apr 10"
     },
-    "Kyrie Irving": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Dereck Lively II": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Spencer Jones": {
+    "P.J. Washington": {
         "status": "yellow",
         "description": "Apr 10"
     },
-    "Peyton Watson": {
+    "Cooper Flagg": {
         "status": "yellow",
-        "description": "Apr 12"
+        "description": "Apr 10"
+    },
+    "Nikola Jokic": {
+        "status": "yellow",
+        "description": "Apr 10"
+    },
+    "Jamal Murray": {
+        "status": "yellow",
+        "description": "Apr 10"
+    },
+    "Aaron Gordon": {
+        "status": "yellow",
+        "description": "Apr 10"
     },
     "Kevin Huerter": {
         "status": "yellow",
         "description": "Apr 10"
     },
-    "Will Richard": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Charles Bassey": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Gui Santos": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "LJ Cryer": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Kristaps Porzingis": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Stephen Curry": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Al Horford": {
-        "status": "yellow",
-        "description": "Apr 12"
-    },
-    "Quinten Post": {
-        "status": "yellow",
-        "description": "Apr 12"
-    },
-    "Moses Moody": {
-        "status": "yellow",
-        "description": "Dec 1"
-    },
-    "Jimmy Butler III": {
-        "status": "yellow",
-        "description": "Dec 1"
-    },
-    "Steven Adams": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Fred VanVleet": {
-        "status": "yellow",
-        "description": "Jun 1"
-    },
-    "Tyrese Haliburton": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Kobe Brown": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Ben Sheppard": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Jarace Walker": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "T.J. McConnell": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Andrew Nembhard": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Aaron Nesmith": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Pascal Siakam": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Ivica Zubac": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Johnny Furphy": {
-        "status": "yellow",
-        "description": "Jan 1"
-    },
-    "Isaiah Jackson": {
-        "status": "yellow",
-        "description": "Apr 12"
-    },
-    "Darius Garland": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Yanic Konan Niederhauser": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Bradley Beal": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Jaxson Hayes": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Marcus Smart": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Luka Doncic": {
-        "status": "yellow",
-        "description": "May 1"
-    },
-    "Austin Reaves": {
-        "status": "yellow",
-        "description": "May 1"
-    },
     "Olivier-Maxence Prosper": {
         "status": "yellow",
         "description": "Apr 10"
     },
-    "Cam Spencer": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "GG Jackson": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Javon Small": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Ty Jerome": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Jaylen Wells": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Zach Edey": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Ja Morant": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Brandon Clarke": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Santi Aldama": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Scotty Pippen Jr.": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Kentavious Caldwell-Pope": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Dru Smith": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Norman Powell": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Nikola Jovic": {
-        "status": "yellow",
-        "description": "Apr 12"
-    },
-    "Terry Rozier": {
-        "status": "yellow",
-        "description": "Apr 15"
-    },
-    "Bobby Portis": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Myles Turner": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Kyle Kuzma": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Giannis Antetokounmpo": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Kevin Porter Jr.": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Rudy Gobert": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Mike Conley": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Anthony Edwards": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Julius Randle": {
+    "Walter Clayton Jr.": {
         "status": "yellow",
         "description": "Apr 10"
     },
@@ -387,109 +51,25 @@
         "status": "yellow",
         "description": "Apr 10"
     },
-    "Trey Murphy III": {
+    "Bones Hyland": {
         "status": "yellow",
         "description": "Apr 10"
     },
-    "Yves Missi": {
+    "Julius Randle": {
         "status": "yellow",
         "description": "Apr 10"
     },
-    "Karlo Matkovic": {
+    "Saddiq Bey": {
         "status": "yellow",
         "description": "Apr 10"
     },
-    "Dejounte Murray": {
+    "Herbert Jones": {
         "status": "yellow",
         "description": "Apr 10"
     },
-    "Bryce McGowens": {
+    "Jalen Green": {
         "status": "yellow",
         "description": "Apr 10"
-    },
-    "Tyler Kolek": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Thomas Sorber": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Jonathan Isaac": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Jett Howard": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Johni Broome": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Cameron Payne": {
-        "status": "yellow",
-        "description": "Apr 20"
-    },
-    "Grayson Allen": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Haywood Highsmith": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Mark Williams": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Vit Krejci": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Shaedon Sharpe": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Jerami Grant": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Damian Lillard": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "DeMar DeRozan": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Keegan Murray": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Russell Westbrook": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Isaiah Stevens": {
-        "status": "yellow",
-        "description": "Apr 12"
-    },
-    "Drew Eubanks": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "De'Andre Hunter": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Domantas Sabonis": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Zach LaVine": {
-        "status": "yellow",
-        "description": "Oct 1"
     },
     "Stephon Castle": {
         "status": "yellow",
@@ -498,93 +78,5 @@
     "Victor Wembanyama": {
         "status": "yellow",
         "description": "Apr 10"
-    },
-    "David Jones Garcia": {
-        "status": "yellow",
-        "description": "Jul 2"
-    },
-    "Chucky Hepburn": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Ace Bailey": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Elijah Harkless": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Keyonte George": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Isaiah Collier": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Lauri Markkanen": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Jusuf Nurkic": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Jaren Jackson Jr.": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Walker Kessler": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Jaden Hardy": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Tre Johnson": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Tristan Vukcevic": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Anthony Gill": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Alex Sarr": {
-        "status": "yellow",
-        "description": "Apr 10"
-    },
-    "Bilal Coulibaly": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Justin Champagnie": {
-        "status": "yellow",
-        "description": "Apr 9"
-    },
-    "Anthony Davis": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Trae Young": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Kyshawn George": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "D'Angelo Russell": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Cam Whitmore": {
-        "status": "yellow",
-        "description": "Oct 1"
     }
 }
