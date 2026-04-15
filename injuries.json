@@ -45,39 +45,15 @@
     },
     "Draymond Green": {
         "status": "yellow",
+        "description": "Apr 14"
+    },
+    "Bam Adebayo": {
+        "status": "yellow",
+        "description": "Apr 14"
+    },
+    "Trendon Watford": {
+        "status": "yellow",
         "description": "Apr 15"
-    },
-    "Kawhi Leonard": {
-        "status": "yellow",
-        "description": "Apr 15"
-    },
-    "Pelle Larsson": {
-        "status": "yellow",
-        "description": "Apr 14"
-    },
-    "Mark Williams": {
-        "status": "yellow",
-        "description": "Apr 13"
-    },
-    "Royce O'Neale": {
-        "status": "yellow",
-        "description": "Apr 13"
-    },
-    "Jalen Green": {
-        "status": "yellow",
-        "description": "Apr 13"
-    },
-    "Collin Gillespie": {
-        "status": "yellow",
-        "description": "Apr 14"
-    },
-    "Dillon Brooks": {
-        "status": "yellow",
-        "description": "Apr 13"
-    },
-    "Devin Booker": {
-        "status": "yellow",
-        "description": "Apr 14"
     },
     "Grayson Allen": {
         "status": "yellow",
@@ -85,7 +61,7 @@
     },
     "Dylan Harper": {
         "status": "yellow",
-        "description": "Apr 18"
+        "description": "Apr 19"
     },
     "Immanuel Quickley": {
         "status": "yellow",
