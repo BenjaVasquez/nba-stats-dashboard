@@ -1,20 +1,4 @@
 {
-    "CJ McCollum": {
-        "status": "yellow",
-        "description": "Apr 18"
-    },
-    "Jonathan Kuminga": {
-        "status": "yellow",
-        "description": "Apr 18"
-    },
-    "Dyson Daniels": {
-        "status": "yellow",
-        "description": "Apr 18"
-    },
-    "Nickeil Alexander-Walker": {
-        "status": "yellow",
-        "description": "Apr 18"
-    },
     "Derrick White": {
         "status": "yellow",
         "description": "Apr 18"
@@ -43,19 +27,11 @@
         "status": "yellow",
         "description": "Apr 18"
     },
-    "Moussa Diabate": {
-        "status": "yellow",
-        "description": "Apr 17"
-    },
     "Kristaps Porzingis": {
         "status": "yellow",
         "description": "Apr 17"
     },
     "Grayson Allen": {
-        "status": "yellow",
-        "description": "Apr 17"
-    },
-    "Mark Williams": {
         "status": "yellow",
         "description": "Apr 17"
     },
