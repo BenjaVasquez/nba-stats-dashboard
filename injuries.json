@@ -1,34 +1,18 @@
 {
+    "Aaron Gordon": {
+        "status": "yellow",
+        "description": "Apr 27"
+    },
     "Kevin Huerter": {
         "status": "yellow",
         "description": "Apr 27"
     },
-    "Kevin Durant": {
-        "status": "yellow",
-        "description": "Apr 26"
-    },
-    "Donte DiVincenzo": {
-        "status": "yellow",
-        "description": "Apr 27"
-    },
-    "Isaiah Joe": {
-        "status": "yellow",
-        "description": "Apr 27"
-    },
-    "Kelly Oubre Jr.": {
+    "Andre Drummond": {
         "status": "yellow",
         "description": "Apr 26"
     },
     "Jordan Goodwin": {
         "status": "yellow",
         "description": "Apr 27"
-    },
-    "Victor Wembanyama": {
-        "status": "yellow",
-        "description": "Apr 26"
-    },
-    "A.J. Lawson": {
-        "status": "yellow",
-        "description": "Apr 26"
     }
 }
