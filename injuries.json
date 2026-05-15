@@ -1,1 +1,14 @@
-{}
+{
+    "Kevin Huerter": {
+        "status": "yellow",
+        "description": "May 15"
+    },
+    "Caris LeVert": {
+        "status": "yellow",
+        "description": "May 15"
+    },
+    "Duncan Robinson": {
+        "status": "yellow",
+        "description": "May 15"
+    }
+}
