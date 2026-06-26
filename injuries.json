@@ -103,11 +103,11 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Brandon Williams": {
+    "P.J. Washington": {
         "status": "yellow",
         "description": "Oct 1"
     },
-    "P.J. Washington": {
+    "Brandon Williams": {
         "status": "yellow",
         "description": "Oct 1"
     },
@@ -257,7 +257,7 @@
     },
     "Adama Bal": {
         "status": "yellow",
-        "description": "Oct 1"
+        "description": "Jul 2"
     },
     "Giannis Antetokounmpo": {
         "status": "yellow",
@@ -272,6 +272,10 @@
         "description": "Oct 1"
     },
     "Bam Adebayo": {
+        "status": "yellow",
+        "description": "Oct 1"
+    },
+    "Kevin Porter Jr.": {
         "status": "yellow",
         "description": "Oct 1"
     },
@@ -291,15 +295,15 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Kevin Porter Jr.": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
     "Pete Nance": {
         "status": "yellow",
         "description": "Oct 1"
     },
     "Kyle Kuzma": {
+        "status": "yellow",
+        "description": "Oct 1"
+    },
+    "Karlo Matkovic": {
         "status": "yellow",
         "description": "Oct 1"
     },
@@ -320,10 +324,6 @@
         "description": "Oct 1"
     },
     "Bryce McGowens": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Karlo Matkovic": {
         "status": "yellow",
         "description": "Oct 1"
     },
@@ -351,15 +351,35 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Jordan Goodwin": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
     "Mark Williams": {
         "status": "yellow",
         "description": "Oct 1"
     },
+    "Jordan Goodwin": {
+        "status": "yellow",
+        "description": "Oct 1"
+    },
     "Damian Lillard": {
+        "status": "yellow",
+        "description": "Oct 1"
+    },
+    "Malik Monk": {
+        "status": "yellow",
+        "description": "Oct 1"
+    },
+    "De'Andre Hunter": {
+        "status": "yellow",
+        "description": "Oct 1"
+    },
+    "DeMar DeRozan": {
+        "status": "yellow",
+        "description": "Oct 1"
+    },
+    "Domantas Sabonis": {
+        "status": "yellow",
+        "description": "Oct 1"
+    },
+    "Zach LaVine": {
         "status": "yellow",
         "description": "Oct 1"
     },
@@ -371,31 +391,11 @@
         "status": "yellow",
         "description": "Jul 2"
     },
-    "Domantas Sabonis": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
     "Keegan Murray": {
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Malik Monk": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "Zach LaVine": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "De'Andre Hunter": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
     "Drew Eubanks": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
-    "DeMar DeRozan": {
         "status": "yellow",
         "description": "Oct 1"
     },
@@ -407,6 +407,10 @@
         "status": "yellow",
         "description": "Jul 2"
     },
+    "Chucky Hepburn": {
+        "status": "yellow",
+        "description": "Jul 2"
+    },
     "Immanuel Quickley": {
         "status": "yellow",
         "description": "Oct 1"
@@ -414,10 +418,6 @@
     "Brandon Ingram": {
         "status": "yellow",
         "description": "Oct 1"
-    },
-    "Chucky Hepburn": {
-        "status": "yellow",
-        "description": "Jul 2"
     },
     "Jaren Jackson Jr.": {
         "status": "yellow",
