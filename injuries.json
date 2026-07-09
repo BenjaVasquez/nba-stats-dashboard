@@ -123,10 +123,6 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Gary Harris": {
-        "status": "yellow",
-        "description": "Oct 1"
-    },
     "Will Richard": {
         "status": "yellow",
         "description": "Jul 9"
@@ -138,10 +134,6 @@
     "Yaxel Lendeborg": {
         "status": "yellow",
         "description": "Jul 9"
-    },
-    "Quinten Post": {
-        "status": "yellow",
-        "description": "Oct 1"
     },
     "Jimmy Butler III": {
         "status": "yellow",
@@ -267,11 +259,11 @@
         "status": "yellow",
         "description": "Jul 2"
     },
-    "Jahmir Young": {
-        "status": "yellow",
-        "description": "Jul 10"
-    },
     "Myron Gardner": {
+        "status": "yellow",
+        "description": "Oct 1"
+    },
+    "Jahmir Young": {
         "status": "yellow",
         "description": "Jul 10"
     },
@@ -350,6 +342,18 @@
     "Jalen Brunson": {
         "status": "yellow",
         "description": "Oct 1"
+    },
+    "Aday Mara": {
+        "status": "yellow",
+        "description": "Jul 10"
+    },
+    "Bennett Stirtz": {
+        "status": "yellow",
+        "description": "Jul 10"
+    },
+    "Otega Oweh": {
+        "status": "yellow",
+        "description": "Jul 10"
     },
     "Thomas Sorber": {
         "status": "yellow",
