@@ -1,20 +1,4 @@
 {
-    "Zuby Ejiofor": {
-        "status": "yellow",
-        "description": "Jul 9"
-    },
-    "Asa Newell": {
-        "status": "yellow",
-        "description": "Jul 9"
-    },
-    "Kingston Flemings": {
-        "status": "yellow",
-        "description": "Jul 9"
-    },
-    "Keshon Gilbert": {
-        "status": "yellow",
-        "description": "Jul 9"
-    },
     "Jock Landale": {
         "status": "yellow",
         "description": "Oct 1"
@@ -123,18 +107,6 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Will Richard": {
-        "status": "yellow",
-        "description": "Jul 9"
-    },
-    "LJ Cryer": {
-        "status": "yellow",
-        "description": "Jul 9"
-    },
-    "Yaxel Lendeborg": {
-        "status": "yellow",
-        "description": "Jul 9"
-    },
     "Jimmy Butler III": {
         "status": "yellow",
         "description": "Dec 1"
@@ -203,14 +175,6 @@
         "status": "yellow",
         "description": "Jul 10"
     },
-    "Olivier-Maxence Prosper": {
-        "status": "yellow",
-        "description": "Jul 10"
-    },
-    "Javon Small": {
-        "status": "yellow",
-        "description": "Jul 10"
-    },
     "Cameron Boozer": {
         "status": "yellow",
         "description": "Jul 10"
@@ -255,25 +219,9 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Adama Bal": {
-        "status": "yellow",
-        "description": "Jul 2"
-    },
     "Myron Gardner": {
         "status": "yellow",
         "description": "Oct 1"
-    },
-    "Jahmir Young": {
-        "status": "yellow",
-        "description": "Jul 10"
-    },
-    "Vladislav Goldin": {
-        "status": "yellow",
-        "description": "Jul 10"
-    },
-    "Trevor Keels": {
-        "status": "yellow",
-        "description": "Jul 10"
     },
     "Dru Smith": {
         "status": "yellow",
@@ -286,6 +234,10 @@
     "Bam Adebayo": {
         "status": "yellow",
         "description": "Oct 1"
+    },
+    "Pete Nance": {
+        "status": "yellow",
+        "description": "Jul 10"
     },
     "Nate Ament": {
         "status": "yellow",
@@ -395,13 +347,13 @@
         "status": "yellow",
         "description": "Oct 1"
     },
+    "Maxime Raynaud": {
+        "status": "yellow",
+        "description": "Jul 12"
+    },
     "Emanuel Sharp": {
         "status": "yellow",
         "description": "Jul 9"
-    },
-    "Alex Karaban": {
-        "status": "yellow",
-        "description": "Jul 12"
     },
     "Zach LaVine": {
         "status": "yellow",
@@ -435,11 +387,11 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Carter Bryant": {
-        "status": "yellow",
-        "description": "Jul 9"
-    },
     "David Jones Garcia": {
+        "status": "yellow",
+        "description": "Oct 1"
+    },
+    "Brandon Ingram": {
         "status": "yellow",
         "description": "Oct 1"
     },
@@ -451,15 +403,7 @@
         "status": "yellow",
         "description": "Oct 1"
     },
-    "Cody Williams": {
-        "status": "yellow",
-        "description": "Jul 9"
-    },
     "Ace Bailey": {
-        "status": "yellow",
-        "description": "Jul 9"
-    },
-    "Darryn Peterson": {
         "status": "yellow",
         "description": "Jul 9"
     },
